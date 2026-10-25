@@ -1,0 +1,501 @@
+Customer ID,Purchase Date,Age,Gender,Purchase Mode,Customer Requirement,Customer Need,Purchase Amount (INR),Quantity,Time Spent (Minutes),Shift,Item,Product Specs,MRP (INR),Selling Price (INR),Discount Rate (%)
+VS20240001,2024-04-24,24,Female,Online,PS5 with good storage,PS5,57870,1,31,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",47900,46200,3.55
+VS20240002,2025-03-08,19,Male,Online,silent fan,Fan,10695,1,22,Evening,Fan,"1400mm BLDC, remote, high air delivery",2600,2400,7.69
+VS20240003,2025-10-27,18,Female,Online,speaker with good bass,Speaker,11963,1,54,Evening,Speaker,"20W Bluetooth, waterproof",24300,19600,19.34
+VS20240004,2024-12-14,23,Male,Offline,charger for phone,Charger,3612,1,16,Evening,Charger,"65W GaN charger, USB-C PD",5400,5000,7.41
+VS20240005,2024-12-18,42,Male,Offline,tablet with good battery,Tablet,20328,1,90,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",12200,10900,10.66
+VS20240006,2025-10-05,20,Female,Offline,mobile with good camera,Mobile Phone,67742,1,59,Evening,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",109000,87400,19.82
+VS20240007,2024-03-22,41,Male,Online,mobile with good camera,Mobile Phone,101276,2,33,Evening,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",127500,115200,9.65
+VS20240008,2024-08-02,64,Male,Offline,tablet with good display,Tablet,42087,1,40,Morning,Tablet,"10.5-inch display, 6GB RAM, 128GB",30600,28300,7.52
+VS20240009,2025-01-23,21,Male,Offline,AC with fast cooling,AC,55021,1,29,Night,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",86400,72700,15.86
+VS20240010,2024-11-19,63,Male,Online,cordless vacuum cleaner,Vacuum Cleaner,25622,1,52,Night,Vacuum Cleaner,"1600W, cyclone, HEPA filter",8400,7000,16.67
+VS20240011,2025-05-26,65,Female,Online,gaming console,PS5,58394,1,88,Morning,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",60800,55200,9.21
+VS20240012,2025-08-21,26,Female,Online,gaming phone,Mobile Phone,141569,1,41,Night,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",158100,133600,15.5
+VS20240013,2024-02-18,45,Male,Offline,double door fridge,Refrigerator,52652,2,74,Night,Refrigerator,"350L, frost free, inverter, 4-star",89200,73900,17.15
+VS20240014,2025-09-02,18,Female,Offline,compact travel charger,Charger,5752,4,53,Night,Charger,"65W GaN charger, USB-C PD",5700,5000,12.28
+VS20240015,2024-09-30,47,Female,Online,TV with good picture quality,Television,15850,1,53,Evening,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",116200,87500,24.7
+VS20240016,2024-07-01,58,Male,Offline,TV for gaming and entertainment,Television,148080,1,97,Evening,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",39700,34100,14.11
+VS20240017,2024-06-05,51,Male,Offline,laptop for coding and study,Laptop,30074,1,96,Night,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",127800,114700,10.25
+VS20240018,2025-05-15,37,Female,Offline,tablet with good battery,Tablet,41385,1,27,Night,Tablet,"11-inch 2K display, 8GB RAM, 256GB",21600,18800,12.96
+VS20240019,2025-08-03,52,Male,Offline,laptop with good specs,Laptop,260758,2,36,Night,Laptop,"Core i5, 16GB RAM, 512GB SSD",128100,107000,16.47
+VS20240020,2025-11-06,45,Male,Online,washing machine for family,Washing Machine,28880,1,94,Night,Washing Machine,"7kg, fully automatic, inverter motor",72500,59500,17.93
+VS20240021,2025-12-07,41,Female,Online,vacuum cleaner for pets,Vacuum Cleaner,33711,1,91,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",21000,15700,25.24
+VS20240022,2024-05-03,32,Male,Online,powerful air conditioner,AC,53864,1,25,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",37800,30200,20.11
+VS20240023,2025-12-25,39,Male,Online,double door fridge,Refrigerator,27287,1,90,Morning,Refrigerator,"250L, double door, inverter compressor, 3-star",52600,38200,27.38
+VS20240024,2024-10-12,54,Male,Offline,laptop with good battery life,Laptop,105525,1,80,Evening,Laptop,"Core i7, 16GB RAM, 1TB SSD, RTX graphics",156500,143900,8.05
+VS20240025,2025-04-29,40,Male,Online,laptop with good battery life,Laptop,85519,1,72,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",75300,70900,5.84
+VS20240026,2024-02-25,24,Male,Online,powerful air conditioner,AC,57591,1,49,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",76100,68200,10.38
+VS20240027,2025-07-03,22,Female,Online,laptop with good specs,Laptop,88082,1,90,Evening,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",40100,33000,17.71
+VS20240028,2024-02-21,33,Male,Offline,fridge with good storage,Refrigerator,39798,1,77,Night,Refrigerator,"250L, double door, inverter compressor, 3-star",68500,60900,11.09
+VS20240029,2025-05-07,18,Female,Offline,AC with fast cooling,AC,76173,1,58,Morning,AC,"1.5 Ton, 3-star, inverter",31100,25300,18.65
+VS20240030,2025-04-10,21,Female,Online,vacuum cleaner for pets,Vacuum Cleaner,42957,1,119,Evening,Vacuum Cleaner,"1200W, bagless, HEPA filter",47600,38800,18.49
+VS20240031,2024-03-03,51,Male,Online,TV for gaming and entertainment,Television,56270,1,27,Evening,Television,"43-inch 4K Smart TV, HDR",86800,59300,31.68
+VS20240032,2024-03-23,33,Male,Offline,TV for gaming and entertainment,Television,241694,2,35,Evening,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",105800,77700,26.56
+VS20240033,2024-09-09,55,Male,Offline,ceiling fan for bedroom,Fan,10760,1,43,Evening,Fan,"1200mm BLDC, remote control",12400,11700,5.65
+VS20240034,2024-09-24,60,Female,Online,tablet for entertainment,Tablet,49321,1,78,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",30900,28700,7.12
+VS20240035,2024-03-15,34,Male,Online,tablet for study,Tablet,27361,1,64,Morning,Tablet,"12-inch display, 8GB RAM, 256GB",22300,20000,10.31
+VS20240036,2024-09-07,37,Male,Online,energy efficient refrigerator,Refrigerator,87329,1,26,Evening,Refrigerator,"350L, frost free, inverter, 4-star",62100,51600,16.91
+VS20240037,2025-07-21,25,Male,Offline,PS5 with good storage,PS5,43507,1,90,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",54500,47800,12.29
+VS20240038,2024-10-05,58,Male,Offline,washing machine with good capacity,Washing Machine,32300,1,89,Morning,Washing Machine,"9kg, front load, steam wash, inverter",40100,36000,10.22
+VS20240039,2024-09-14,35,Male,Online,AC with fast cooling,AC,61556,2,25,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",107200,92900,13.34
+VS20240040,2024-05-13,63,Female,Online,tablet with good battery,Tablet,66057,1,91,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",29800,27700,7.05
+VS20240041,2024-04-24,55,Male,Offline,oven for quick cooking,Oven,23105,1,43,Night,Oven,"28L, convection, grill, digital display",21700,19900,8.29
+VS20240042,2024-05-10,20,Female,Offline,USB-C charger,Charger,3431,1,23,Night,Charger,"65W GaN charger, USB-C PD",1000,900,10.0
+VS20240043,2024-09-12,44,Female,Offline,gaming console,PS5,45064,1,50,Night,PS5,"PS5 Slim Disc Edition, 1TB SSD",61900,57600,6.95
+VS20240044,2024-06-15,65,Male,Offline,water purifier for family,Water Purifier,86310,3,77,Morning,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",44700,35800,19.91
+VS20240045,2025-11-16,24,Male,Online,vacuum cleaner for home,Vacuum Cleaner,60140,2,29,Night,Vacuum Cleaner,"1600W, cyclone, HEPA filter",28300,21200,25.09
+VS20240046,2025-04-26,32,Female,Online,RO purifier with good filtration,Water Purifier,21609,1,28,Night,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",24900,17800,28.51
+VS20240047,2024-07-16,35,Female,Offline,PS5 for gaming,PS5,51506,1,85,Night,PS5,"PS5 Slim Digital, 1TB SSD",46400,43500,6.25
+VS20240048,2025-11-26,34,Female,Offline,USB-C charger,Charger,5886,3,47,Morning,Charger,"45W fast charging, USB-C PD",900,800,11.11
+VS20240049,2024-02-09,45,Female,Online,gaming phone,Mobile Phone,142066,1,17,Night,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",32300,27700,14.24
+VS20240050,2025-08-13,52,Male,Offline,USB-C charger,Charger,2114,1,33,Morning,Charger,"65W GaN charger, USB-C PD",5200,4700,9.62
+VS20240051,2024-03-12,25,Female,Offline,compact travel charger,Charger,5920,2,42,Evening,Charger,"65W GaN charger, USB-C PD",4800,4500,6.25
+VS20240052,2025-11-13,30,Female,Offline,gaming phone,Mobile Phone,118217,1,52,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",17400,15500,10.92
+VS20240053,2025-11-24,53,Male,Offline,compact travel charger,Charger,503,1,29,Evening,Charger,"45W fast charging, USB-C PD",5500,4500,18.18
+VS20240054,2024-08-03,31,Female,Offline,phone with good performance,Mobile Phone,142001,1,40,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",68800,61100,11.19
+VS20240055,2024-06-22,39,Female,Offline,vacuum cleaner for pets,Vacuum Cleaner,11120,1,55,Evening,Vacuum Cleaner,"1600W, cyclone, HEPA filter",58000,46400,20.0
+VS20240056,2024-11-13,48,Male,Online,PS5 for gaming,PS5,42386,1,78,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",49000,43400,11.43
+VS20240057,2025-10-06,59,Female,Offline,compact travel charger,Charger,545,1,58,Morning,Charger,"45W fast charging, USB-C PD",3800,3100,18.42
+VS20240058,2024-04-19,51,Male,Online,water purifier for family,Water Purifier,37444,1,31,Night,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",38400,31800,17.19
+VS20240059,2024-09-12,60,Male,Offline,TV for gaming and entertainment,Television,308466,2,91,Night,Television,"43-inch 4K Smart TV, HDR",65400,47100,27.98
+VS20240060,2024-11-20,50,Female,Offline,high speed fan,Fan,25473,3,45,Evening,Fan,"1200mm, 5-speed, energy efficient",8100,6500,19.75
+VS20240061,2024-06-11,58,Female,Offline,powerful air conditioner,AC,61347,1,91,Night,AC,"1.5 Ton, 3-star, inverter",79300,57800,27.11
+VS20240062,2025-10-03,35,Female,Online,powerful air conditioner,AC,69020,1,65,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",46000,32900,28.48
+VS20240063,2024-03-23,31,Male,Online,TV with good picture quality,Television,31837,1,73,Morning,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",102500,73800,28.0
+VS20240064,2024-12-04,42,Female,Online,charger for phone,Charger,660,1,58,Night,Charger,"25W fast charging, USB-C",4000,3800,5.0
+VS20240065,2025-01-24,44,Female,Online,high speed fan,Fan,10318,1,57,Evening,Fan,"1200mm, 5-speed, energy efficient",14500,12600,13.1
+VS20240066,2025-07-13,49,Male,Offline,portable speaker,Speaker,3402,1,34,Evening,Speaker,"80W party speaker, Bluetooth, bass boost",19400,15300,21.13
+VS20240067,2025-11-15,26,Female,Offline,tablet with good battery,Tablet,80008,1,23,Night,Tablet,"12-inch display, 8GB RAM, 256GB",44600,37300,16.37
+VS20240068,2025-08-29,47,Male,Online,charger for phone,Charger,1988,1,13,Evening,Charger,"25W fast charging, USB-C",3100,2700,12.9
+VS20240069,2025-01-23,42,Female,Online,phone with long battery life,Mobile Phone,80943,1,58,Night,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",15200,14100,7.24
+VS20240070,2025-03-07,21,Male,Offline,UV and RO water purifier,Water Purifier,29935,1,53,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",17600,14100,19.89
+VS20240071,2024-03-11,30,Male,Offline,gaming console,PS5,40667,1,99,Night,PS5,"PS5 Slim Disc Edition, 1TB SSD",62800,60600,3.5
+VS20240072,2024-09-01,62,Male,Offline,fully automatic washing machine,Washing Machine,31793,1,72,Morning,Washing Machine,"9kg, front load, steam wash, inverter",76400,59000,22.77
+VS20240073,2025-09-12,37,Male,Offline,washing machine for family,Washing Machine,22084,1,99,Morning,Washing Machine,"9kg, front load, steam wash, inverter",48400,37400,22.73
+VS20240074,2024-11-15,22,Female,Online,oven with good capacity,Oven,24401,1,113,Evening,Oven,"30L, convection, stainless-steel cavity",7500,6200,17.33
+VS20240075,2025-10-04,25,Female,Offline,water purifier for home,Water Purifier,44088,1,30,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",54100,44500,17.74
+VS20240076,2025-06-29,18,Female,Online,tablet for entertainment,Tablet,65057,1,82,Evening,Tablet,"11-inch 2K display, 8GB RAM, 256GB",66500,59100,11.13
+VS20240077,2025-03-19,64,Female,Offline,double door fridge,Refrigerator,259158,3,108,Evening,Refrigerator,"350L, frost free, inverter, 4-star",23700,21100,10.97
+VS20240078,2025-09-22,55,Female,Offline,gaming phone,Mobile Phone,78358,1,30,Night,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",22200,20700,6.76
+VS20240079,2024-09-08,47,Male,Online,RO purifier with good filtration,Water Purifier,88690,2,103,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",43800,38000,13.24
+VS20240080,2025-01-23,31,Female,Offline,gaming console,PS5,51626,1,53,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",60300,54900,8.96
+VS20240081,2024-10-13,30,Female,Offline,tablet with good battery,Tablet,42442,2,50,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",25500,21500,15.69
+VS20240082,2025-02-20,49,Male,Offline,Bluetooth speaker,Speaker,30871,1,60,Evening,Speaker,"80W party speaker, Bluetooth, bass boost",20300,16500,18.72
+VS20240083,2024-04-05,55,Female,Offline,oven for quick cooking,Oven,17092,1,85,Evening,Oven,"28L, convection, grill, digital display",9200,7000,23.91
+VS20240084,2025-06-27,37,Female,Online,TV with good picture quality,Television,80903,1,49,Evening,Television,"43-inch 4K Smart TV, HDR",135600,98200,27.58
+VS20240085,2024-07-16,35,Male,Online,large refrigerator for family,Refrigerator,86765,1,101,Evening,Refrigerator,"250L, double door, inverter compressor, 3-star",79100,63100,20.23
+VS20240086,2024-04-12,18,Female,Online,phone with good performance,Mobile Phone,296040,2,18,Morning,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",61000,53100,12.95
+VS20240087,2024-02-16,49,Female,Offline,phone with good performance,Mobile Phone,104676,3,10,Morning,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",74100,58200,21.46
+VS20240088,2024-10-18,34,Female,Online,energy efficient fan,Fan,9327,1,17,Night,Fan,"1200mm BLDC, remote control",2400,2100,12.5
+VS20240089,2024-03-07,27,Male,Offline,water purifier for home,Water Purifier,16777,1,97,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",44800,34400,23.21
+VS20240090,2024-03-28,56,Male,Offline,phone with long battery life,Mobile Phone,268648,4,59,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",74600,59200,20.64
+VS20240091,2025-01-24,45,Female,Online,large screen TV,Television,95053,1,92,Evening,Television,"43-inch 4K Smart TV, HDR",66700,55800,16.34
+VS20240092,2024-03-02,31,Male,Offline,high speed fan,Fan,5835,1,52,Morning,Fan,"1200mm, 5-speed, energy efficient",12500,11300,9.6
+VS20240093,2024-06-09,62,Male,Online,energy efficient refrigerator,Refrigerator,79592,1,62,Evening,Refrigerator,"300L, frost free, inverter, 3-star",69400,56000,19.31
+VS20240094,2024-08-25,61,Female,Offline,oven for quick cooking,Oven,12648,1,58,Evening,Oven,"28L, convection, grill, digital display",14300,12600,11.89
+VS20240095,2025-10-02,59,Male,Online,vacuum cleaner for home,Vacuum Cleaner,14764,1,59,Evening,Vacuum Cleaner,"1600W, cyclone, HEPA filter",31600,25700,18.67
+VS20240096,2024-05-25,54,Male,Offline,RO purifier with good filtration,Water Purifier,25914,1,81,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",27800,20200,27.34
+VS20240097,2025-04-24,49,Female,Offline,energy efficient refrigerator,Refrigerator,75377,1,35,Evening,Refrigerator,"250L, double door, inverter compressor, 3-star",36000,27700,23.06
+VS20240098,2024-02-10,32,Female,Offline,energy efficient fan,Fan,21848,2,47,Morning,Fan,"1200mm BLDC, remote control",7800,6800,12.82
+VS20240099,2025-11-19,51,Male,Offline,oven with good capacity,Oven,52696,2,81,Morning,Oven,"25L, convection, digital controls",16500,13700,16.97
+VS20240100,2024-07-04,23,Female,Offline,mobile with good camera,Mobile Phone,524840,4,32,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",22400,19900,11.16
+VS20240101,2024-12-07,62,Male,Offline,charger for phone,Charger,4558,1,28,Evening,Charger,"65W GaN charger, USB-C PD",1600,1300,18.75
+VS20240102,2025-02-14,38,Male,Offline,PS5 with good storage,PS5,43798,1,71,Evening,PS5,"PS5 Slim Digital, 1TB SSD",51700,49600,4.06
+VS20240103,2025-06-10,44,Male,Offline,RO purifier with good filtration,Water Purifier,21104,2,49,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",40100,32700,18.45
+VS20240104,2025-01-05,31,Female,Offline,large screen TV,Television,85007,1,90,Night,Television,"43-inch 4K Smart TV, HDR",40600,35100,13.55
+VS20240105,2024-10-21,56,Female,Online,energy efficient washing machine,Washing Machine,67383,1,55,Night,Washing Machine,"8kg, front load, inverter motor, 5-star",32400,29300,9.57
+VS20240106,2024-06-11,25,Male,Offline,portable speaker,Speaker,31741,1,17,Morning,Speaker,"20W Bluetooth, waterproof",45300,33200,26.71
+VS20240107,2024-06-06,48,Female,Offline,PS5 with good storage,PS5,55473,1,51,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",48700,46900,3.7
+VS20240108,2025-07-18,26,Male,Offline,powerful air conditioner,AC,34150,1,60,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",35400,31200,11.86
+VS20240109,2025-02-28,37,Female,Offline,powerful vacuum cleaner,Vacuum Cleaner,43465,1,99,Evening,Vacuum Cleaner,"1200W, bagless, HEPA filter",59700,44100,26.13
+VS20240110,2025-05-16,53,Female,Offline,console for AAA games,PS5,115614,2,68,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",59100,55700,5.75
+VS20240111,2024-11-25,44,Male,Offline,powerful air conditioner,AC,61440,2,65,Morning,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",31200,27200,12.82
+VS20240112,2025-04-29,59,Female,Online,Bluetooth speaker,Speaker,11468,1,41,Evening,Speaker,"20W Bluetooth, waterproof",24600,19300,21.54
+VS20240113,2024-05-09,46,Female,Offline,oven for baking,Oven,8267,1,92,Night,Oven,"25L, convection, digital controls",9100,8300,8.79
+VS20240114,2024-01-16,22,Female,Offline,AC for a bedroom,AC,86537,1,58,Night,AC,"2 Ton, 3-star, inverter, fast cooling",46400,39100,15.73
+VS20240115,2025-09-30,52,Male,Offline,tablet for entertainment,Tablet,59808,1,60,Night,Tablet,"11-inch 2K display, 8GB RAM, 256GB",96000,74800,22.08
+VS20240116,2025-05-14,61,Male,Offline,console for AAA games,PS5,98832,2,49,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",63200,53900,14.72
+VS20240117,2024-04-02,24,Male,Offline,portable speaker,Speaker,30576,1,20,Evening,Speaker,"20W Bluetooth, waterproof",57500,45700,20.52
+VS20240118,2024-11-02,40,Male,Online,speaker for parties,Speaker,52130,2,37,Morning,Speaker,"80W party speaker, Bluetooth, bass boost",24900,19900,20.08
+VS20240119,2024-09-07,42,Male,Online,washing machine for family,Washing Machine,55613,1,112,Morning,Washing Machine,"9kg, front load, steam wash, inverter",70500,54800,22.27
+VS20240120,2025-05-24,47,Male,Online,laptop with good specs,Laptop,126932,2,21,Evening,Laptop,"Core i7, 16GB RAM, 1TB SSD, RTX graphics",117100,93500,20.15
+VS20240121,2025-04-21,55,Male,Online,cordless vacuum cleaner,Vacuum Cleaner,49210,2,106,Night,Vacuum Cleaner,"1600W, cyclone, HEPA filter",46000,36000,21.74
+VS20240122,2025-12-07,48,Female,Online,USB-C charger,Charger,1373,1,25,Evening,Charger,"45W fast charging, USB-C PD",5700,4700,17.54
+VS20240123,2025-08-08,60,Female,Offline,USB-C charger,Charger,3742,1,27,Evening,Charger,"25W fast charging, USB-C",1400,1200,14.29
+VS20240124,2025-08-02,36,Male,Offline,oven for quick cooking,Oven,25080,2,102,Evening,Oven,"28L, convection, grill, digital display",21000,16700,20.48
+VS20240125,2024-12-26,64,Male,Offline,powerful vacuum cleaner,Vacuum Cleaner,48200,1,112,Evening,Vacuum Cleaner,"1600W, cyclone, HEPA filter",42200,33600,20.38
+VS20240126,2024-05-20,55,Male,Online,RO purifier with good filtration,Water Purifier,30911,1,118,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",11000,9800,10.91
+VS20240127,2024-04-02,26,Female,Offline,fully automatic washing machine,Washing Machine,133088,2,94,Morning,Washing Machine,"9kg, front load, steam wash, inverter",24600,21100,14.23
+VS20240128,2025-06-27,48,Female,Offline,tablet for study,Tablet,48684,1,63,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",47400,39400,16.88
+VS20240129,2024-04-27,61,Male,Online,cordless vacuum cleaner,Vacuum Cleaner,49197,1,75,Night,Vacuum Cleaner,"1200W, bagless, HEPA filter",22700,19300,14.98
+VS20240130,2025-07-24,47,Female,Online,water purifier for family,Water Purifier,31155,1,111,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",15100,12800,15.23
+VS20240131,2025-11-19,24,Female,Offline,speaker with good bass,Speaker,45726,1,24,Night,Speaker,"80W party speaker, Bluetooth, bass boost",58600,44600,23.89
+VS20240132,2024-01-26,22,Female,Offline,powerful air conditioner,AC,85852,1,114,Morning,AC,"2 Ton, 3-star, inverter, fast cooling",73200,58000,20.77
+VS20240133,2025-10-26,49,Male,Online,phone with long battery life,Mobile Phone,38440,1,16,Morning,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",90800,73000,19.6
+VS20240134,2025-07-04,62,Female,Online,laptop with good specs,Laptop,100804,1,73,Night,Laptop,"Core i7, 16GB RAM, 1TB SSD, RTX graphics",69700,66100,5.16
+VS20240135,2024-06-07,35,Male,Offline,ceiling fan for bedroom,Fan,4072,2,54,Evening,Fan,"1200mm, 5-speed, energy efficient",7900,6400,18.99
+VS20240136,2024-08-10,61,Male,Offline,tablet with good display,Tablet,58147,1,89,Morning,Tablet,"10.5-inch display, 6GB RAM, 128GB",66400,57800,12.95
+VS20240137,2025-01-02,47,Female,Online,gaming console,PS5,43003,1,47,Morning,PS5,"PS5 Slim Digital, 1TB SSD",58700,50500,13.97
+VS20240138,2025-10-16,26,Male,Online,PS5 with good storage,PS5,58500,1,46,Evening,PS5,"PS5 Slim Digital, 1TB SSD",53700,51000,5.03
+VS20240139,2025-07-21,27,Male,Offline,large refrigerator for family,Refrigerator,18371,1,60,Morning,Refrigerator,"250L, double door, inverter compressor, 3-star",73100,55600,23.94
+VS20240140,2024-05-28,19,Female,Offline,UV and RO water purifier,Water Purifier,46911,3,26,Morning,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",17000,12300,27.65
+VS20240141,2024-08-31,65,Male,Online,tablet with good display,Tablet,65176,1,87,Morning,Tablet,"11-inch 2K display, 8GB RAM, 256GB",95600,80100,16.21
+VS20240142,2024-03-06,50,Female,Offline,large refrigerator for family,Refrigerator,47038,1,103,Morning,Refrigerator,"250L, double door, inverter compressor, 3-star",93700,79100,15.58
+VS20240143,2025-11-05,48,Female,Offline,oven with good capacity,Oven,18160,1,79,Morning,Oven,"25L, convection, digital controls",17100,13800,19.3
+VS20240144,2024-04-20,56,Female,Online,PS5 for gaming,PS5,44860,1,28,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",61300,56300,8.16
+VS20240145,2024-10-08,36,Female,Online,fully automatic washing machine,Washing Machine,44734,1,89,Evening,Washing Machine,"7kg, fully automatic, inverter motor",70400,64000,9.09
+VS20240146,2025-03-16,53,Male,Offline,ceiling fan for bedroom,Fan,5022,1,37,Evening,Fan,"1200mm, 5-speed, energy efficient",11000,9200,16.36
+VS20240147,2024-08-21,38,Female,Online,AC with fast cooling,AC,80936,1,65,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",54900,44500,18.94
+VS20240148,2024-09-18,23,Male,Offline,console for AAA games,PS5,42797,1,31,Evening,PS5,"PS5 Slim Digital, 1TB SSD",59200,52300,11.66
+VS20240149,2024-04-08,55,Female,Offline,fast charger,Charger,3200,1,52,Evening,Charger,"45W fast charging, USB-C PD",2600,2100,19.23
+VS20240150,2025-02-24,36,Female,Offline,large refrigerator for family,Refrigerator,58953,1,70,Evening,Refrigerator,"350L, frost free, inverter, 4-star",92100,82200,10.75
+VS20240151,2025-08-14,24,Male,Offline,energy efficient refrigerator,Refrigerator,63890,1,96,Morning,Refrigerator,"350L, frost free, inverter, 4-star",26700,23900,10.49
+VS20240152,2024-04-27,57,Male,Offline,tablet with good battery,Tablet,82972,1,23,Night,Tablet,"12-inch display, 8GB RAM, 256GB",18700,15800,15.51
+VS20240153,2025-11-04,37,Female,Online,silent fan,Fan,14134,2,32,Evening,Fan,"1200mm BLDC, remote control",12100,9700,19.83
+VS20240154,2024-07-04,19,Female,Online,oven for quick cooking,Oven,16012,2,120,Evening,Oven,"28L, convection, grill, digital display",28100,22700,19.22
+VS20240155,2024-08-08,64,Female,Online,TV with good picture quality,Television,100035,1,92,Evening,Television,"43-inch 4K Smart TV, HDR",45200,34100,24.56
+VS20240156,2024-03-27,61,Male,Online,ceiling fan for bedroom,Fan,5672,2,27,Evening,Fan,"1400mm BLDC, remote, high air delivery",12800,11700,8.59
+VS20240157,2025-11-08,50,Female,Online,powerful air conditioner,AC,39918,1,69,Morning,AC,"2 Ton, 3-star, inverter, fast cooling",69600,53400,23.28
+VS20240158,2024-04-23,32,Female,Offline,charger for phone,Charger,3737,1,48,Evening,Charger,"45W fast charging, USB-C PD",3000,2700,10.0
+VS20240159,2024-01-08,36,Male,Offline,oven for baking,Oven,15751,1,40,Night,Oven,"25L, convection, digital controls",24500,19000,22.45
+VS20240160,2025-05-24,32,Male,Online,microwave oven for home cooking,Oven,21392,1,96,Evening,Oven,"30L, convection, stainless-steel cavity",26800,20600,23.13
+VS20240161,2025-11-15,45,Male,Online,water purifier for home,Water Purifier,8228,1,83,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",52500,39300,25.14
+VS20240162,2024-11-16,25,Female,Offline,double door fridge,Refrigerator,71088,1,27,Evening,Refrigerator,"250L, double door, inverter compressor, 3-star",54300,40000,26.34
+VS20240163,2024-06-24,23,Female,Offline,tablet for entertainment,Tablet,67240,1,33,Night,Tablet,"12-inch display, 8GB RAM, 256GB",73000,63700,12.74
+VS20240164,2025-03-22,39,Male,Online,gaming laptop with good performance,Laptop,59041,1,62,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",128800,103300,19.8
+VS20240165,2024-06-21,40,Male,Offline,vacuum cleaner for home,Vacuum Cleaner,28009,1,118,Morning,Vacuum Cleaner,"1600W, cyclone, HEPA filter",9400,8600,8.51
+VS20240166,2025-10-22,29,Male,Online,RO purifier with good filtration,Water Purifier,46478,1,44,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",36600,27100,25.96
+VS20240167,2025-11-02,55,Female,Offline,vacuum cleaner for home,Vacuum Cleaner,34419,1,112,Evening,Vacuum Cleaner,"1200W, bagless, HEPA filter",46500,34100,26.67
+VS20240168,2025-10-20,27,Female,Offline,energy efficient fan,Fan,8705,1,14,Evening,Fan,"1200mm BLDC, remote control",4200,3600,14.29
+VS20240169,2025-03-28,22,Female,Offline,AC with fast cooling,AC,65685,1,84,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",60400,43100,28.64
+VS20240170,2024-02-08,23,Female,Online,AC with fast cooling,AC,91462,1,74,Night,AC,"2 Ton, 3-star, inverter, fast cooling",109300,91500,16.29
+VS20240171,2025-08-17,59,Male,Online,AC with fast cooling,AC,49672,1,66,Night,AC,"1.5 Ton, 3-star, inverter",74300,52500,29.34
+VS20240172,2025-05-02,39,Male,Offline,energy efficient fan,Fan,2881,1,42,Night,Fan,"1400mm BLDC, remote, high air delivery",13900,12600,9.35
+VS20240173,2024-06-25,57,Female,Offline,console for AAA games,PS5,45201,1,66,Evening,PS5,"PS5 Slim Digital, 1TB SSD",49700,45100,9.26
+VS20240174,2024-10-16,58,Female,Offline,tablet with good display,Tablet,53863,1,28,Morning,Tablet,"12-inch display, 8GB RAM, 256GB",97100,88800,8.55
+VS20240175,2024-04-06,60,Female,Online,tablet with good display,Tablet,88997,1,39,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",35400,28900,18.36
+VS20240176,2024-03-24,59,Male,Offline,tablet with good battery,Tablet,61374,1,36,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",35900,27600,23.12
+VS20240177,2025-12-26,39,Female,Offline,ceiling fan for bedroom,Fan,7186,2,52,Evening,Fan,"1200mm BLDC, remote control",9700,8100,16.49
+VS20240178,2025-12-02,41,Male,Offline,portable speaker,Speaker,5388,2,33,Evening,Speaker,"20W Bluetooth, waterproof",46300,39400,14.9
+VS20240179,2024-07-03,32,Female,Offline,phone with long battery life,Mobile Phone,132183,3,19,Evening,Mobile Phone,"12GB RAM, 256GB, AMOLED, 5000mAh",133800,126800,5.23
+VS20240180,2024-10-29,65,Male,Offline,double door fridge,Refrigerator,174026,2,29,Evening,Refrigerator,"350L, frost free, inverter, 4-star",78300,69800,10.86
+VS20240181,2024-12-10,29,Male,Offline,PS5 with good storage,PS5,90848,2,76,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",55700,53400,4.13
+VS20240182,2025-02-24,65,Male,Offline,oven with good capacity,Oven,19710,1,54,Evening,Oven,"28L, convection, grill, digital display",8200,7500,8.54
+VS20240183,2024-09-01,61,Female,Offline,TV for gaming and entertainment,Television,164532,1,76,Morning,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",80500,66800,17.02
+VS20240184,2024-10-15,56,Female,Offline,powerful air conditioner,AC,43140,1,57,Night,AC,"2 Ton, 3-star, inverter, fast cooling",107100,79900,25.4
+VS20240185,2025-10-18,51,Female,Offline,microwave oven for home cooking,Oven,9085,1,61,Morning,Oven,"30L, convection, stainless-steel cavity",13000,11400,12.31
+VS20240186,2024-06-13,32,Male,Offline,double door fridge,Refrigerator,77130,1,69,Morning,Refrigerator,"350L, frost free, inverter, 4-star",83500,68400,18.08
+VS20240187,2025-02-28,41,Female,Online,microwave oven for home cooking,Oven,12357,1,28,Night,Oven,"28L, convection, grill, digital display",18400,14300,22.28
+VS20240188,2024-04-11,36,Female,Offline,tablet for entertainment,Tablet,143850,2,37,Morning,Tablet,"12-inch display, 8GB RAM, 256GB",58700,45100,23.17
+VS20240189,2025-12-23,31,Male,Offline,vacuum cleaner for home,Vacuum Cleaner,14798,1,95,Morning,Vacuum Cleaner,"1200W, bagless, HEPA filter",19500,17700,9.23
+VS20240190,2025-09-15,25,Male,Offline,speaker with good bass,Speaker,4629,1,25,Morning,Speaker,"80W party speaker, Bluetooth, bass boost",35900,29000,19.22
+VS20240191,2025-10-16,49,Female,Online,compact travel charger,Charger,4891,1,11,Night,Charger,"65W GaN charger, USB-C PD",4200,3700,11.9
+VS20240192,2025-06-11,40,Male,Online,gaming console,PS5,47882,1,93,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",51200,46600,8.98
+VS20240193,2024-07-10,51,Male,Offline,compact travel charger,Charger,4957,1,42,Evening,Charger,"25W fast charging, USB-C",4200,3800,9.52
+VS20240194,2025-06-03,42,Female,Offline,vacuum cleaner for pets,Vacuum Cleaner,29464,1,57,Morning,Vacuum Cleaner,"1200W, bagless, HEPA filter",29500,24900,15.59
+VS20240195,2024-01-17,58,Male,Online,speaker with good bass,Speaker,8293,1,59,Evening,Speaker,"40W Bluetooth, deep bass, waterproof",7900,7000,11.39
+VS20240196,2024-12-06,29,Female,Offline,energy efficient fan,Fan,9112,1,54,Night,Fan,"1200mm BLDC, remote control",3400,3100,8.82
+VS20240197,2025-10-08,47,Male,Online,AC with fast cooling,AC,29847,1,62,Night,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",88800,65400,26.35
+VS20240198,2024-02-14,43,Male,Online,laptop with good specs,Laptop,136876,1,89,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",148700,120000,19.3
+VS20240199,2024-09-16,21,Male,Online,AC with fast cooling,AC,68506,1,59,Night,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",96500,68800,28.7
+VS20240200,2025-01-11,42,Female,Offline,large refrigerator for family,Refrigerator,62438,1,48,Night,Refrigerator,"300L, frost free, inverter, 3-star",65600,49200,25.0
+VS20240201,2025-12-09,23,Female,Offline,energy efficient AC,AC,81440,1,102,Evening,AC,"1.5 Ton, 3-star, inverter",109400,97100,11.24
+VS20240202,2024-07-03,36,Female,Online,water purifier for family,Water Purifier,27086,1,82,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",34700,31000,10.66
+VS20240203,2025-03-12,40,Female,Online,high speed fan,Fan,11573,1,37,Morning,Fan,"1400mm BLDC, remote, high air delivery",6700,5400,19.4
+VS20240204,2025-10-16,41,Male,Online,phone with long battery life,Mobile Phone,427506,3,57,Evening,Mobile Phone,"12GB RAM, 256GB, AMOLED, 5000mAh",93800,85200,9.17
+VS20240205,2024-06-12,46,Male,Offline,PS5 with good storage,PS5,123420,3,36,Evening,PS5,"PS5 Slim Digital, 1TB SSD",46100,43500,5.64
+VS20240206,2024-08-29,20,Female,Online,double door fridge,Refrigerator,38111,1,111,Night,Refrigerator,"350L, frost free, inverter, 4-star",53600,46200,13.81
+VS20240207,2025-01-14,43,Male,Offline,energy efficient AC,AC,66207,1,108,Evening,AC,"1.5 Ton, 3-star, inverter",70900,60700,14.39
+VS20240208,2024-09-12,42,Male,Offline,phone with long battery life,Mobile Phone,116610,3,26,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",96700,84800,12.31
+VS20240209,2024-09-23,49,Male,Offline,cordless vacuum cleaner,Vacuum Cleaner,18118,1,40,Evening,Vacuum Cleaner,"1600W, cyclone, HEPA filter",58900,49200,16.47
+VS20240210,2024-03-16,38,Female,Offline,washing machine with good capacity,Washing Machine,58767,1,69,Night,Washing Machine,"9kg, front load, steam wash, inverter",37200,29700,20.16
+VS20240211,2024-03-07,63,Female,Offline,speaker with good bass,Speaker,48001,1,54,Night,Speaker,"80W party speaker, Bluetooth, bass boost",32500,27300,16.0
+VS20240212,2024-06-27,26,Male,Online,gaming console,PS5,47757,1,83,Morning,PS5,"PS5 Slim Digital, 1TB SSD",57500,50000,13.04
+VS20240213,2025-01-04,26,Female,Offline,oven for quick cooking,Oven,25052,1,36,Night,Oven,"30L, convection, stainless-steel cavity",12300,9700,21.14
+VS20240214,2024-11-12,54,Female,Offline,energy efficient refrigerator,Refrigerator,27666,1,41,Night,Refrigerator,"300L, frost free, inverter, 3-star",57700,47300,18.02
+VS20240215,2025-10-19,53,Female,Offline,tablet with good display,Tablet,87042,1,43,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",80200,72900,9.1
+VS20240216,2024-05-12,37,Male,Offline,vacuum cleaner for home,Vacuum Cleaner,15790,1,45,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",54300,45700,15.84
+VS20240217,2025-12-27,58,Female,Offline,tablet for entertainment,Tablet,82199,1,55,Evening,Tablet,"11-inch 2K display, 8GB RAM, 256GB",20300,17700,12.81
+VS20240218,2025-10-02,55,Male,Offline,fully automatic washing machine,Washing Machine,25105,1,46,Morning,Washing Machine,"7kg, fully automatic, inverter motor",79400,63700,19.77
+VS20240219,2025-10-01,19,Female,Offline,gaming console,PS5,42661,1,25,Evening,PS5,"PS5 Slim Digital, 1TB SSD",64300,59700,7.15
+VS20240220,2025-08-13,58,Male,Offline,PS5 with good storage,PS5,40992,1,83,Evening,PS5,"PS5 Slim Digital, 1TB SSD",55000,47000,14.55
+VS20240221,2025-07-12,61,Female,Offline,gaming console,PS5,53306,1,58,Night,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",53800,51200,4.83
+VS20240222,2024-03-15,31,Male,Online,energy efficient AC,AC,69589,1,102,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",68900,50800,26.27
+VS20240223,2024-11-16,43,Female,Offline,washing machine for family,Washing Machine,47138,2,72,Night,Washing Machine,"7kg, fully automatic, inverter motor",67200,55000,18.15
+VS20240224,2025-07-29,33,Male,Offline,smart TV for movies,Television,51930,1,32,Evening,Television,"43-inch 4K Smart TV, HDR",24700,18900,23.48
+VS20240225,2024-10-24,28,Female,Online,microwave oven for home cooking,Oven,31458,2,98,Night,Oven,"28L, convection, grill, digital display",27400,21600,21.17
+VS20240226,2024-11-16,49,Male,Offline,speaker with good bass,Speaker,21720,1,41,Evening,Speaker,"40W Bluetooth, deep bass, waterproof",17900,16300,8.94
+VS20240227,2024-04-02,40,Female,Offline,oven for quick cooking,Oven,13188,2,31,Morning,Oven,"28L, convection, grill, digital display",12700,11200,11.81
+VS20240228,2025-05-21,24,Female,Online,mobile with good camera,Mobile Phone,120965,1,18,Morning,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",155800,144700,7.12
+VS20240229,2025-01-09,53,Female,Online,phone with long battery life,Mobile Phone,59027,1,33,Morning,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",36700,30900,15.8
+VS20240230,2024-10-22,57,Female,Offline,smart TV for movies,Television,175181,1,35,Evening,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",98400,83400,15.24
+VS20240231,2024-04-09,27,Female,Offline,washing machine for family,Washing Machine,28045,1,102,Evening,Washing Machine,"9kg, front load, steam wash, inverter",56100,44300,21.03
+VS20240232,2025-02-15,48,Male,Online,TV for gaming and entertainment,Television,151139,1,78,Evening,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",23900,19400,18.83
+VS20240233,2025-09-12,28,Male,Online,fully automatic washing machine,Washing Machine,81504,2,103,Evening,Washing Machine,"9kg, front load, steam wash, inverter",65500,55400,15.42
+VS20240234,2024-11-02,19,Female,Offline,speaker for parties,Speaker,25640,1,31,Evening,Speaker,"80W party speaker, Bluetooth, bass boost",17000,15200,10.59
+VS20240235,2024-04-22,62,Female,Offline,gaming console,PS5,122619,3,96,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",59500,52900,11.09
+VS20240236,2024-09-28,28,Male,Offline,energy efficient AC,AC,281136,3,105,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",55900,43700,21.82
+VS20240237,2025-09-26,20,Female,Online,speaker with good bass,Speaker,39023,1,54,Evening,Speaker,"20W Bluetooth, waterproof",34700,30800,11.24
+VS20240238,2024-07-14,31,Female,Online,fridge with good storage,Refrigerator,71788,1,89,Evening,Refrigerator,"300L, frost free, inverter, 3-star",45200,38200,15.49
+VS20240239,2025-09-18,53,Male,Offline,vacuum cleaner for pets,Vacuum Cleaner,52604,2,109,Evening,Vacuum Cleaner,"1200W, bagless, HEPA filter",47100,36900,21.66
+VS20240240,2025-06-22,52,Male,Offline,AC with fast cooling,AC,71437,1,111,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",60400,47700,21.03
+VS20240241,2025-11-28,33,Female,Offline,cordless vacuum cleaner,Vacuum Cleaner,23284,1,96,Morning,Vacuum Cleaner,"1600W, cyclone, HEPA filter",11100,8100,27.03
+VS20240242,2024-08-18,62,Female,Offline,phone with good performance,Mobile Phone,272378,2,30,Evening,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",79700,68500,14.05
+VS20240243,2024-12-23,52,Female,Online,AC for a bedroom,AC,74767,1,75,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",54900,42600,22.4
+VS20240244,2024-12-19,63,Male,Online,UV and RO water purifier,Water Purifier,36537,3,69,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",14900,11300,24.16
+VS20240245,2025-11-02,35,Female,Online,AC for a bedroom,AC,98664,1,114,Night,AC,"1.5 Ton, 3-star, inverter",94000,78900,16.06
+VS20240246,2024-05-20,51,Male,Online,mobile with good camera,Mobile Phone,67158,1,50,Evening,Mobile Phone,"12GB RAM, 256GB, AMOLED, 5000mAh",142300,124700,12.37
+VS20240247,2024-02-23,26,Female,Offline,laptop with good battery life,Laptop,30679,1,90,Morning,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",65100,54800,15.82
+VS20240248,2025-02-20,36,Female,Offline,washing machine for family,Washing Machine,36048,1,61,Morning,Washing Machine,"7kg, fully automatic, inverter motor",35400,32400,8.47
+VS20240249,2024-03-01,65,Male,Offline,console for AAA games,PS5,82444,2,42,Morning,PS5,"PS5 Slim Digital, 1TB SSD",60300,55300,8.29
+VS20240250,2024-06-29,49,Male,Offline,charger for phone,Charger,4052,2,57,Evening,Charger,"45W fast charging, USB-C PD",4700,4000,14.89
+VS20240251,2024-10-23,39,Male,Online,water purifier for family,Water Purifier,51298,2,83,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",24100,17600,26.97
+VS20240252,2025-07-10,30,Male,Offline,PS5 for gaming,PS5,43691,1,62,Evening,PS5,"PS5 Slim Digital, 1TB SSD",63800,59900,6.11
+VS20240253,2025-04-14,36,Male,Online,washing machine for family,Washing Machine,52210,1,111,Evening,Washing Machine,"8kg, front load, inverter motor, 5-star",64800,59500,8.18
+VS20240254,2024-07-16,23,Female,Offline,vacuum cleaner for pets,Vacuum Cleaner,31269,1,110,Evening,Vacuum Cleaner,"1200W, bagless, HEPA filter",35300,26900,23.8
+VS20240255,2024-07-08,34,Female,Online,large refrigerator for family,Refrigerator,204825,3,55,Morning,Refrigerator,"250L, double door, inverter compressor, 3-star",45500,39500,13.19
+VS20240256,2024-09-30,34,Female,Offline,energy efficient AC,AC,216381,3,113,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",48800,36900,24.39
+VS20240257,2024-03-04,50,Female,Online,laptop with good battery life,Laptop,147324,1,59,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",137500,108500,21.09
+VS20240258,2024-04-30,26,Female,Online,speaker for parties,Speaker,32838,1,19,Morning,Speaker,"40W Bluetooth, deep bass, waterproof",39600,34400,13.13
+VS20240259,2025-09-12,31,Female,Offline,AC for a bedroom,AC,57435,1,112,Night,AC,"2 Ton, 3-star, inverter, fast cooling",86700,68800,20.65
+VS20240260,2025-09-02,41,Male,Offline,powerful vacuum cleaner,Vacuum Cleaner,20236,2,97,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",37100,27600,25.61
+VS20240261,2024-03-04,38,Male,Offline,large refrigerator for family,Refrigerator,172404,2,81,Morning,Refrigerator,"300L, frost free, inverter, 3-star",42300,33500,20.8
+VS20240262,2025-11-27,21,Female,Online,fridge with good storage,Refrigerator,77432,1,41,Evening,Refrigerator,"350L, frost free, inverter, 4-star",64000,48300,24.53
+VS20240263,2025-03-01,37,Male,Offline,TV with good picture quality,Television,20706,1,70,Evening,Television,"43-inch 4K Smart TV, HDR",137000,109200,20.29
+VS20240264,2024-01-04,22,Male,Online,gaming phone,Mobile Phone,149862,1,13,Evening,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",44900,42900,4.45
+VS20240265,2025-04-28,59,Female,Online,energy efficient refrigerator,Refrigerator,73097,1,72,Morning,Refrigerator,"350L, frost free, inverter, 4-star",42900,34800,18.88
+VS20240266,2025-04-04,60,Female,Online,compact travel charger,Charger,9834,2,18,Evening,Charger,"65W GaN charger, USB-C PD",3100,2900,6.45
+VS20240267,2024-12-22,32,Female,Offline,PS5 with good storage,PS5,40113,1,22,Evening,PS5,"PS5 Slim Disc Edition, 1TB SSD",57500,52500,8.7
+VS20240268,2025-04-19,33,Female,Offline,phone with good performance,Mobile Phone,128750,1,32,Night,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",95200,74700,21.53
+VS20240269,2024-10-09,57,Male,Online,energy efficient washing machine,Washing Machine,65204,1,27,Evening,Washing Machine,"9kg, front load, steam wash, inverter",68400,60200,11.99
+VS20240270,2024-07-30,21,Male,Online,laptop for coding and study,Laptop,62077,1,25,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",64200,57100,11.06
+VS20240271,2025-03-25,26,Male,Offline,compact travel charger,Charger,4627,1,28,Night,Charger,"65W GaN charger, USB-C PD",3100,2500,19.35
+VS20240272,2025-08-12,60,Female,Online,laptop with good specs,Laptop,98321,1,48,Night,Laptop,"Core i5, 16GB RAM, 512GB SSD",50600,40600,19.76
+VS20240273,2024-11-03,49,Male,Offline,USB-C charger,Charger,884,1,32,Evening,Charger,"25W fast charging, USB-C",4300,4000,6.98
+VS20240274,2025-11-18,37,Female,Offline,console for AAA games,PS5,52335,1,43,Evening,PS5,"PS5 Slim Digital, 1TB SSD",46300,42000,9.29
+VS20240275,2025-07-04,47,Male,Online,vacuum cleaner for home,Vacuum Cleaner,8776,1,96,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",20600,15200,26.21
+VS20240276,2025-03-02,39,Male,Online,compact travel charger,Charger,1147,1,38,Evening,Charger,"65W GaN charger, USB-C PD",1400,1100,21.43
+VS20240277,2025-01-14,56,Male,Online,RO purifier with good filtration,Water Purifier,46513,1,30,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",28100,21800,22.42
+VS20240278,2024-03-15,39,Male,Offline,RO purifier with good filtration,Water Purifier,26869,1,26,Night,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",50100,37100,25.95
+VS20240279,2024-07-13,33,Male,Offline,laptop with good specs,Laptop,363531,3,97,Night,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",90500,74700,17.46
+VS20240280,2024-07-28,42,Male,Offline,Bluetooth speaker,Speaker,32056,1,44,Night,Speaker,"80W party speaker, Bluetooth, bass boost",59800,46900,21.57
+VS20240281,2025-01-02,24,Female,Offline,PS5 with good storage,PS5,55384,1,60,Evening,PS5,"PS5 Slim Disc Edition, 1TB SSD",54200,47000,13.28
+VS20240282,2025-01-14,27,Male,Offline,laptop for coding and study,Laptop,32125,1,53,Morning,Laptop,"Core i5, 16GB RAM, 512GB SSD",142500,131500,7.72
+VS20240283,2025-08-21,32,Female,Online,large screen TV,Television,114572,1,92,Morning,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",38200,32300,15.45
+VS20240284,2024-09-08,64,Female,Online,water purifier for home,Water Purifier,49054,1,119,Night,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",32900,28100,14.59
+VS20240285,2025-04-16,49,Female,Online,AC for a bedroom,AC,49123,1,94,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",37400,30400,18.72
+VS20240286,2024-03-01,18,Male,Offline,PS5 for gaming,PS5,53513,1,37,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",63500,56900,10.39
+VS20240287,2025-10-07,41,Male,Online,water purifier for home,Water Purifier,10961,1,104,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",31200,24200,22.44
+VS20240288,2025-11-13,52,Female,Offline,PS5 with good storage,PS5,116152,2,72,Morning,PS5,"PS5 Slim Digital, 1TB SSD",54900,49100,10.56
+VS20240289,2024-01-18,50,Female,Offline,oven with good capacity,Oven,27867,1,111,Evening,Oven,"25L, convection, digital controls",27500,23200,15.64
+VS20240290,2024-07-02,57,Male,Offline,compact travel charger,Charger,4812,1,26,Morning,Charger,"65W GaN charger, USB-C PD",3100,2700,12.9
+VS20240291,2024-12-28,47,Female,Online,water purifier for family,Water Purifier,44027,1,56,Night,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",53300,40500,24.02
+VS20240292,2024-08-19,20,Male,Offline,speaker for parties,Speaker,7627,1,35,Night,Speaker,"20W Bluetooth, waterproof",35400,29100,17.8
+VS20240293,2025-01-21,23,Male,Offline,fast charger,Charger,4594,1,37,Evening,Charger,"65W GaN charger, USB-C PD",5100,4500,11.76
+VS20240294,2024-12-05,32,Male,Offline,PS5 for gaming,PS5,46927,1,92,Night,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",59200,56500,4.56
+VS20240295,2024-10-04,52,Male,Offline,energy efficient AC,AC,98860,1,109,Evening,AC,"1.5 Ton, 3-star, inverter",94600,78300,17.23
+VS20240296,2024-07-02,27,Female,Online,microwave oven for home cooking,Oven,59298,2,116,Morning,Oven,"25L, convection, digital controls",13900,12000,13.67
+VS20240297,2025-02-11,42,Female,Online,water purifier for family,Water Purifier,84852,2,67,Morning,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",17300,12600,27.17
+VS20240298,2024-05-23,21,Male,Offline,compact travel charger,Charger,1300,1,37,Night,Charger,"45W fast charging, USB-C PD",5600,5000,10.71
+VS20240299,2024-03-18,58,Female,Offline,laptop with good specs,Laptop,65825,1,77,Evening,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",41400,33100,20.05
+VS20240300,2024-08-21,60,Female,Online,energy efficient AC,AC,74816,1,35,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",107700,76000,29.43
+VS20240301,2025-09-25,27,Male,Offline,vacuum cleaner for pets,Vacuum Cleaner,29903,1,116,Morning,Vacuum Cleaner,"1600W, cyclone, HEPA filter",9500,8500,10.53
+VS20240302,2025-10-11,18,Female,Online,vacuum cleaner for pets,Vacuum Cleaner,25202,1,81,Morning,Vacuum Cleaner,"1600W, cyclone, HEPA filter",50000,42800,14.4
+VS20240303,2024-10-03,53,Male,Online,tablet for entertainment,Tablet,77166,1,72,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",20500,17200,16.1
+VS20240304,2024-01-27,42,Male,Offline,double door fridge,Refrigerator,19617,1,62,Night,Refrigerator,"250L, double door, inverter compressor, 3-star",45700,34800,23.85
+VS20240305,2025-02-01,42,Male,Offline,fast charger,Charger,1888,1,18,Morning,Charger,"25W fast charging, USB-C",3700,3300,10.81
+VS20240306,2024-11-04,44,Male,Online,phone with long battery life,Mobile Phone,86578,1,40,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",99600,82000,17.67
+VS20240307,2024-03-19,57,Male,Offline,vacuum cleaner for home,Vacuum Cleaner,17815,1,83,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",38600,34700,10.1
+VS20240308,2024-05-18,39,Female,Online,double door fridge,Refrigerator,75700,1,67,Evening,Refrigerator,"250L, double door, inverter compressor, 3-star",29500,21600,26.78
+VS20240309,2025-10-28,62,Male,Online,USB-C charger,Charger,6435,3,40,Evening,Charger,"45W fast charging, USB-C PD",1600,1500,6.25
+VS20240310,2024-06-30,49,Female,Online,tablet with good display,Tablet,256443,3,51,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",45500,37500,17.58
+VS20240311,2025-01-20,30,Female,Online,tablet for study,Tablet,87624,1,89,Night,Tablet,"10.5-inch display, 6GB RAM, 128GB",70000,56300,19.57
+VS20240312,2025-11-29,63,Male,Offline,energy efficient washing machine,Washing Machine,28739,1,81,Evening,Washing Machine,"8kg, front load, inverter motor, 5-star",32200,29200,9.32
+VS20240313,2024-10-25,44,Male,Offline,powerful vacuum cleaner,Vacuum Cleaner,98208,2,88,Night,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",51400,41900,18.48
+VS20240314,2025-10-10,42,Female,Offline,energy efficient washing machine,Washing Machine,19847,1,82,Evening,Washing Machine,"9kg, front load, steam wash, inverter",66600,50500,24.17
+VS20240315,2025-05-05,41,Female,Offline,ceiling fan for bedroom,Fan,10296,1,48,Night,Fan,"1200mm, 5-speed, energy efficient",12200,9500,22.13
+VS20240316,2024-03-28,59,Male,Offline,PS5 for gaming,PS5,41451,1,92,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",60100,55200,8.15
+VS20240317,2025-11-24,18,Female,Offline,gaming console,PS5,43231,1,53,Evening,PS5,"PS5 Slim Disc Edition, 1TB SSD",47400,41800,11.81
+VS20240318,2025-06-06,61,Male,Online,gaming laptop with good performance,Laptop,107147,1,84,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",100500,83700,16.72
+VS20240319,2024-12-19,23,Female,Online,washing machine with good capacity,Washing Machine,90424,4,118,Evening,Washing Machine,"8kg, front load, inverter motor, 5-star",28800,25400,11.81
+VS20240320,2024-12-22,40,Female,Offline,washing machine with good capacity,Washing Machine,46205,1,37,Evening,Washing Machine,"7kg, fully automatic, inverter motor",38100,30100,21.0
+VS20240321,2025-12-14,25,Male,Online,powerful air conditioner,AC,27960,1,68,Night,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",63700,54300,14.76
+VS20240322,2024-04-21,51,Male,Offline,gaming console,PS5,45716,1,90,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",48800,41700,14.55
+VS20240323,2024-12-04,29,Female,Online,washing machine with good capacity,Washing Machine,27215,1,106,Evening,Washing Machine,"9kg, front load, steam wash, inverter",18900,14400,23.81
+VS20240324,2025-03-18,18,Male,Online,PS5 for gaming,PS5,47038,1,46,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",54200,47800,11.81
+VS20240325,2025-12-21,52,Male,Offline,phone with long battery life,Mobile Phone,57010,1,33,Night,Mobile Phone,"8GB RAM, 128GB, 50MP camera, 5000mAh",145400,121500,16.44
+VS20240326,2024-07-20,58,Female,Offline,tablet with good battery,Tablet,51078,1,96,Evening,Tablet,"12-inch display, 8GB RAM, 256GB",55800,48800,12.54
+VS20240327,2025-09-17,57,Male,Online,compact travel charger,Charger,1913,1,53,Night,Charger,"25W fast charging, USB-C",4400,4000,9.09
+VS20240328,2024-10-31,33,Male,Offline,speaker with good bass,Speaker,43026,2,17,Evening,Speaker,"20W Bluetooth, waterproof",52300,47300,9.56
+VS20240329,2025-01-17,42,Female,Online,energy efficient washing machine,Washing Machine,42724,1,48,Morning,Washing Machine,"7kg, fully automatic, inverter motor",49000,44200,9.8
+VS20240330,2025-10-12,26,Male,Offline,AC for a bedroom,AC,49523,1,65,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",99400,79100,20.42
+VS20240331,2025-04-06,30,Female,Offline,water purifier for family,Water Purifier,32162,1,96,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",22300,16800,24.66
+VS20240332,2025-10-30,49,Female,Online,smart TV for movies,Television,58844,1,30,Night,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",51900,36400,29.87
+VS20240333,2024-02-01,52,Male,Online,high speed fan,Fan,6229,1,20,Evening,Fan,"1200mm BLDC, remote control",12500,10000,20.0
+VS20240334,2025-04-13,25,Female,Offline,vacuum cleaner for home,Vacuum Cleaner,22556,1,94,Morning,Vacuum Cleaner,"1200W, bagless, HEPA filter",35300,32100,9.07
+VS20240335,2025-01-10,31,Male,Offline,water purifier for home,Water Purifier,34862,1,38,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",41900,35400,15.51
+VS20240336,2025-10-31,34,Female,Offline,portable speaker,Speaker,24344,1,15,Morning,Speaker,"40W Bluetooth, deep bass, waterproof",49800,41700,16.27
+VS20240337,2024-04-30,62,Male,Online,energy efficient AC,AC,70957,1,115,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",90900,79600,12.43
+VS20240338,2025-10-09,21,Male,Offline,high speed fan,Fan,10840,1,32,Night,Fan,"1400mm BLDC, remote, high air delivery",11700,9300,20.51
+VS20240339,2024-10-14,36,Male,Online,TV for gaming and entertainment,Television,165139,1,54,Evening,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",103300,76100,26.33
+VS20240340,2025-06-10,44,Male,Online,water purifier for family,Water Purifier,32655,3,60,Night,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",46700,36000,22.91
+VS20240341,2025-11-02,33,Male,Online,UV and RO water purifier,Water Purifier,32736,1,87,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",23700,20400,13.92
+VS20240342,2025-08-14,23,Female,Online,fully automatic washing machine,Washing Machine,41401,1,90,Morning,Washing Machine,"8kg, front load, inverter motor, 5-star",48900,44400,9.2
+VS20240343,2024-10-11,55,Female,Offline,portable speaker,Speaker,1662,1,59,Evening,Speaker,"40W Bluetooth, deep bass, waterproof",47800,40200,15.9
+VS20240344,2024-04-05,22,Female,Offline,water purifier for family,Water Purifier,42024,1,75,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",44000,36800,16.36
+VS20240345,2025-03-15,39,Female,Online,laptop with good specs,Laptop,203474,2,93,Night,Laptop,"Core i7, 16GB RAM, 1TB SSD, RTX graphics",45100,34900,22.62
+VS20240346,2025-08-02,20,Female,Offline,energy efficient washing machine,Washing Machine,43050,2,105,Night,Washing Machine,"8kg, front load, inverter motor, 5-star",27100,21800,19.56
+VS20240347,2025-04-15,45,Male,Online,vacuum cleaner for pets,Vacuum Cleaner,18259,1,113,Morning,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",50000,44700,10.6
+VS20240348,2025-10-27,23,Female,Online,washing machine for family,Washing Machine,39369,1,110,Evening,Washing Machine,"7kg, fully automatic, inverter motor",74400,56300,24.33
+VS20240349,2024-06-18,45,Female,Offline,PS5 for gaming,PS5,42988,1,32,Night,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",47800,41800,12.55
+VS20240350,2024-08-06,46,Male,Offline,oven with good capacity,Oven,5304,1,26,Evening,Oven,"28L, convection, grill, digital display",26100,19700,24.52
+VS20240351,2024-12-17,32,Female,Offline,portable speaker,Speaker,26604,1,15,Evening,Speaker,"40W Bluetooth, deep bass, waterproof",47000,42000,10.64
+VS20240352,2024-04-14,26,Female,Offline,speaker with good bass,Speaker,43546,1,53,Morning,Speaker,"80W party speaker, Bluetooth, bass boost",59300,53600,9.61
+VS20240353,2024-03-11,40,Male,Offline,washing machine with good capacity,Washing Machine,62345,1,52,Morning,Washing Machine,"8kg, front load, inverter motor, 5-star",45900,39200,14.6
+VS20240354,2024-06-04,24,Female,Offline,console for AAA games,PS5,89174,2,35,Morning,PS5,"PS5 Slim Disc Edition, 1TB SSD",52300,45300,13.38
+VS20240355,2025-01-28,35,Female,Online,silent fan,Fan,2880,1,25,Morning,Fan,"1200mm, 5-speed, energy efficient",5500,4600,16.36
+VS20240356,2025-09-07,60,Female,Offline,smart TV for movies,Television,94075,1,46,Evening,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",196000,167300,14.64
+VS20240357,2025-09-13,33,Female,Online,smart TV for movies,Television,144731,1,69,Morning,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",96800,68700,29.03
+VS20240358,2024-09-03,41,Male,Offline,double door fridge,Refrigerator,59480,1,41,Night,Refrigerator,"300L, frost free, inverter, 3-star",32600,28300,13.19
+VS20240359,2025-08-05,22,Male,Offline,compact travel charger,Charger,636,1,47,Night,Charger,"25W fast charging, USB-C",4200,3500,16.67
+VS20240360,2024-01-15,43,Male,Offline,fridge with good storage,Refrigerator,84402,1,61,Night,Refrigerator,"350L, frost free, inverter, 4-star",88000,79100,10.11
+VS20240361,2025-12-30,58,Female,Online,gaming console,PS5,57582,1,88,Evening,PS5,"PS5 Slim Disc Edition, 1TB SSD",59300,55900,5.73
+VS20240362,2024-06-05,27,Female,Online,energy efficient fan,Fan,10288,1,30,Night,Fan,"1400mm BLDC, remote, high air delivery",14600,13100,10.27
+VS20240363,2025-08-23,33,Male,Online,USB-C charger,Charger,974,1,25,Evening,Charger,"25W fast charging, USB-C",4400,3600,18.18
+VS20240364,2025-03-20,65,Male,Online,large refrigerator for family,Refrigerator,41022,1,40,Evening,Refrigerator,"250L, double door, inverter compressor, 3-star",69700,52000,25.39
+VS20240365,2025-12-25,51,Male,Online,oven for baking,Oven,21948,1,117,Night,Oven,"25L, convection, digital controls",20900,16100,22.97
+VS20240366,2024-06-19,19,Female,Offline,mobile with good camera,Mobile Phone,95821,1,37,Morning,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",54100,44500,17.74
+VS20240367,2025-06-20,21,Male,Offline,phone with good performance,Mobile Phone,138969,1,46,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",48100,44900,6.65
+VS20240368,2025-01-11,25,Male,Offline,washing machine with good capacity,Washing Machine,29968,1,119,Evening,Washing Machine,"7kg, fully automatic, inverter motor",78100,60500,22.54
+VS20240369,2024-01-03,42,Male,Online,TV for gaming and entertainment,Television,54343,1,42,Evening,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",81500,57600,29.33
+VS20240370,2024-02-06,64,Female,Online,water purifier for family,Water Purifier,27967,1,59,Morning,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",43500,33300,23.45
+VS20240371,2024-03-20,29,Male,Offline,water purifier for home,Water Purifier,21626,1,91,Night,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",40900,31100,23.96
+VS20240372,2025-02-14,37,Female,Offline,oven with good capacity,Oven,15724,1,36,Night,Oven,"25L, convection, digital controls",26800,20800,22.39
+VS20240373,2025-04-12,65,Male,Online,large screen TV,Television,178241,1,51,Night,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",118600,83500,29.6
+VS20240374,2025-01-12,64,Female,Offline,energy efficient AC,AC,96638,1,56,Night,AC,"1.5 Ton, 3-star, inverter",32500,26000,20.0
+VS20240375,2024-01-07,62,Male,Online,fully automatic washing machine,Washing Machine,31256,2,67,Evening,Washing Machine,"8kg, front load, inverter motor, 5-star",37200,33000,11.29
+VS20240376,2025-11-04,33,Female,Online,microwave oven for home cooking,Oven,18756,1,87,Evening,Oven,"28L, convection, grill, digital display",34800,31900,8.33
+VS20240377,2024-05-25,51,Male,Online,oven for quick cooking,Oven,18535,1,114,Morning,Oven,"30L, convection, stainless-steel cavity",32700,26700,18.35
+VS20240378,2025-04-14,58,Male,Offline,tablet for study,Tablet,185064,3,29,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",30600,27200,11.11
+VS20240379,2025-08-04,38,Male,Online,high speed fan,Fan,7938,1,54,Evening,Fan,"1200mm, 5-speed, energy efficient",9700,7900,18.56
+VS20240380,2024-11-30,26,Female,Online,water purifier for home,Water Purifier,45319,1,38,Night,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",33300,24000,27.93
+VS20240381,2024-04-18,40,Female,Online,energy efficient washing machine,Washing Machine,65484,1,51,Morning,Washing Machine,"7kg, fully automatic, inverter motor",61300,53300,13.05
+VS20240382,2024-11-11,37,Male,Online,AC with fast cooling,AC,30286,1,52,Night,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",108300,80900,25.3
+VS20240383,2024-12-01,21,Male,Offline,water purifier for home,Water Purifier,26584,1,58,Evening,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",34000,29100,14.41
+VS20240384,2024-06-27,53,Female,Offline,water purifier for family,Water Purifier,23374,1,37,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",33700,26600,21.07
+VS20240385,2024-04-14,32,Male,Online,AC for a bedroom,AC,42133,1,50,Morning,AC,"1.5 Ton, 3-star, inverter",55900,43000,23.08
+VS20240386,2025-02-14,22,Male,Offline,RO purifier with good filtration,Water Purifier,8428,1,33,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",51000,40500,20.59
+VS20240387,2025-10-23,39,Male,Online,gaming laptop with good performance,Laptop,46059,1,25,Night,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",115000,103300,10.17
+VS20240388,2024-02-21,19,Female,Offline,powerful air conditioner,AC,75165,1,112,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",70900,62300,12.13
+VS20240389,2024-06-25,27,Male,Online,charger for phone,Charger,783,1,49,Evening,Charger,"65W GaN charger, USB-C PD",900,800,11.11
+VS20240390,2025-09-23,48,Female,Offline,high speed fan,Fan,2499,1,15,Night,Fan,"1400mm BLDC, remote, high air delivery",12600,11100,11.9
+VS20240391,2025-01-27,33,Male,Offline,phone with long battery life,Mobile Phone,13119,1,34,Night,Mobile Phone,"12GB RAM, 256GB, AMOLED, 5000mAh",132600,119900,9.58
+VS20240392,2025-12-31,38,Female,Online,powerful vacuum cleaner,Vacuum Cleaner,30452,1,59,Evening,Vacuum Cleaner,"1200W, bagless, HEPA filter",54500,48600,10.83
+VS20240393,2024-01-27,35,Male,Online,washing machine with good capacity,Washing Machine,18839,1,85,Night,Washing Machine,"8kg, front load, inverter motor, 5-star",62000,47400,23.55
+VS20240394,2025-01-01,60,Male,Offline,TV with good picture quality,Television,78216,1,54,Morning,Television,"55-inch 4K QLED, HDR10+, Dolby Audio",32100,27400,14.64
+VS20240395,2024-02-27,42,Male,Offline,TV with good picture quality,Television,108009,1,42,Night,Television,"43-inch 4K Smart TV, HDR",177100,120800,31.79
+VS20240396,2024-08-30,62,Female,Offline,washing machine for family,Washing Machine,38047,1,97,Morning,Washing Machine,"9kg, front load, steam wash, inverter",42000,36400,13.33
+VS20240397,2024-05-25,49,Male,Offline,ceiling fan for bedroom,Fan,10382,1,29,Night,Fan,"1400mm BLDC, remote, high air delivery",10800,10000,7.41
+VS20240398,2025-05-17,51,Male,Online,washing machine with good capacity,Washing Machine,46325,1,25,Morning,Washing Machine,"8kg, front load, inverter motor, 5-star",74000,62100,16.08
+VS20240399,2025-09-20,38,Male,Online,tablet for study,Tablet,17806,1,22,Morning,Tablet,"12-inch display, 8GB RAM, 256GB",63000,56000,11.11
+VS20240400,2025-08-23,41,Male,Offline,washing machine for family,Washing Machine,19753,1,72,Night,Washing Machine,"9kg, front load, steam wash, inverter",21900,19900,9.13
+VS20240401,2025-11-09,28,Male,Online,speaker with good bass,Speaker,49495,1,37,Evening,Speaker,"80W party speaker, Bluetooth, bass boost",19000,17200,9.47
+VS20240402,2025-10-16,62,Female,Online,vacuum cleaner for pets,Vacuum Cleaner,135660,3,70,Night,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",40900,35900,12.22
+VS20240403,2025-11-12,36,Male,Online,laptop for coding and study,Laptop,46691,1,42,Evening,Laptop,"Core i7, 16GB RAM, 1TB SSD, RTX graphics",114400,107700,5.86
+VS20240404,2024-01-02,54,Female,Offline,Bluetooth speaker,Speaker,7244,2,21,Night,Speaker,"80W party speaker, Bluetooth, bass boost",19900,16100,19.1
+VS20240405,2024-11-21,49,Male,Offline,ceiling fan for bedroom,Fan,7608,2,31,Morning,Fan,"1400mm BLDC, remote, high air delivery",15000,13800,8.0
+VS20240406,2024-03-20,23,Female,Online,Bluetooth speaker,Speaker,47962,1,52,Night,Speaker,"20W Bluetooth, waterproof",28900,23900,17.3
+VS20240407,2024-12-09,40,Female,Online,PS5 with good storage,PS5,48410,1,33,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",53900,51200,5.01
+VS20240408,2024-01-02,44,Female,Offline,speaker for parties,Speaker,33814,1,34,Night,Speaker,"80W party speaker, Bluetooth, bass boost",24200,19800,18.18
+VS20240409,2025-07-13,61,Female,Offline,tablet with good battery,Tablet,39567,1,40,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",37900,30700,19.0
+VS20240410,2024-03-16,24,Male,Online,powerful air conditioner,AC,34725,1,68,Evening,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",77900,56200,27.86
+VS20240411,2025-01-19,23,Male,Offline,washing machine for family,Washing Machine,37147,1,101,Night,Washing Machine,"9kg, front load, steam wash, inverter",54000,46700,13.52
+VS20240412,2025-05-09,45,Female,Offline,energy efficient fan,Fan,4073,1,13,Morning,Fan,"1400mm BLDC, remote, high air delivery",2800,2200,21.43
+VS20240413,2024-12-05,64,Male,Online,energy efficient refrigerator,Refrigerator,88795,1,58,Evening,Refrigerator,"300L, frost free, inverter, 3-star",98800,77000,22.06
+VS20240414,2024-10-15,49,Male,Online,console for AAA games,PS5,45032,1,26,Evening,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",61800,58100,5.99
+VS20240415,2024-01-04,48,Female,Offline,tablet with good battery,Tablet,36171,1,32,Evening,Tablet,"11-inch 2K display, 8GB RAM, 256GB",44800,36200,19.2
+VS20240416,2024-07-30,25,Female,Offline,microwave oven for home cooking,Oven,15104,1,75,Evening,Oven,"28L, convection, grill, digital display",31600,25300,19.94
+VS20240417,2025-05-15,29,Female,Online,AC with fast cooling,AC,147260,2,73,Evening,AC,"2 Ton, 3-star, inverter, fast cooling",75600,57600,23.81
+VS20240418,2024-07-10,35,Female,Online,tablet with good battery,Tablet,83956,1,27,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",76700,67200,12.39
+VS20240419,2025-12-14,44,Male,Offline,washing machine with good capacity,Washing Machine,64575,1,100,Night,Washing Machine,"8kg, front load, inverter motor, 5-star",60200,49400,17.94
+VS20240420,2025-07-20,52,Female,Offline,laptop for coding and study,Laptop,120055,1,80,Evening,Laptop,"Core i7, 16GB RAM, 1TB SSD, RTX graphics",179500,150600,16.1
+VS20240421,2024-08-29,20,Male,Online,energy efficient fan,Fan,9726,1,46,Night,Fan,"1200mm, 5-speed, energy efficient",6700,6300,5.97
+VS20240422,2025-08-08,29,Male,Online,large screen TV,Television,58821,1,47,Night,Television,"43-inch 4K Smart TV, HDR",147500,127000,13.9
+VS20240423,2024-07-16,30,Female,Online,cordless vacuum cleaner,Vacuum Cleaner,46105,1,43,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",47200,34800,26.27
+VS20240424,2025-09-01,53,Male,Online,RO purifier with good filtration,Water Purifier,28373,1,60,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",52500,46500,11.43
+VS20240425,2025-04-14,51,Male,Offline,TV for gaming and entertainment,Television,249988,2,34,Evening,Television,"43-inch 4K Smart TV, HDR",47000,41500,11.7
+VS20240426,2024-06-02,24,Male,Offline,USB-C charger,Charger,2843,1,44,Evening,Charger,"25W fast charging, USB-C",2200,1900,13.64
+VS20240427,2025-02-24,29,Female,Offline,tablet with good display,Tablet,46099,1,71,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",80600,61400,23.82
+VS20240428,2025-09-25,39,Female,Online,washing machine with good capacity,Washing Machine,60253,1,55,Night,Washing Machine,"9kg, front load, steam wash, inverter",63200,57600,8.86
+VS20240429,2025-05-01,37,Female,Online,oven for baking,Oven,30378,2,60,Night,Oven,"25L, convection, digital controls",32500,24400,24.92
+VS20240430,2025-05-18,37,Male,Offline,RO purifier with good filtration,Water Purifier,72078,2,66,Morning,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",44200,36800,16.74
+VS20240431,2025-03-02,44,Male,Online,phone with good performance,Mobile Phone,134998,1,58,Morning,Mobile Phone,"12GB RAM, 256GB, AMOLED, 5000mAh",100400,81800,18.53
+VS20240432,2025-01-17,43,Male,Online,smart TV for movies,Television,101118,2,87,Evening,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",130500,116100,11.03
+VS20240433,2024-01-30,47,Male,Offline,energy efficient fan,Fan,2328,1,33,Morning,Fan,"1400mm BLDC, remote, high air delivery",6500,6000,7.69
+VS20240434,2024-07-22,25,Female,Offline,speaker with good bass,Speaker,46141,1,11,Evening,Speaker,"80W party speaker, Bluetooth, bass boost",6400,4600,28.12
+VS20240435,2025-01-16,55,Female,Online,laptop for coding and study,Laptop,102264,1,64,Night,Laptop,"Core i5, 16GB RAM, 512GB SSD",63200,50800,19.62
+VS20240436,2024-06-16,36,Female,Offline,tablet with good battery,Tablet,27194,2,69,Evening,Tablet,"11-inch 2K display, 8GB RAM, 256GB",69600,56900,18.25
+VS20240437,2024-06-15,61,Male,Offline,oven for baking,Oven,23548,2,59,Evening,Oven,"30L, convection, stainless-steel cavity",14500,13200,8.97
+VS20240438,2025-02-23,29,Male,Offline,gaming console,PS5,59698,1,21,Morning,PS5,"PS5 Slim Digital, 1TB SSD",57800,54900,5.02
+VS20240439,2024-09-15,35,Female,Offline,laptop for coding and study,Laptop,85549,1,68,Evening,Laptop,"Ryzen 7, 16GB RAM, 512GB SSD",61500,52100,15.28
+VS20240440,2024-12-23,57,Male,Offline,UV and RO water purifier,Water Purifier,33027,1,99,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",39700,35300,11.08
+VS20240441,2024-01-08,36,Female,Offline,energy efficient refrigerator,Refrigerator,57121,1,112,Evening,Refrigerator,"300L, frost free, inverter, 3-star",34100,28800,15.54
+VS20240442,2025-05-08,34,Female,Offline,fridge with good storage,Refrigerator,57163,1,49,Night,Refrigerator,"350L, frost free, inverter, 4-star",52700,42800,18.79
+VS20240443,2025-06-13,56,Male,Offline,fully automatic washing machine,Washing Machine,41482,1,109,Night,Washing Machine,"8kg, front load, inverter motor, 5-star",41000,31300,23.66
+VS20240444,2025-11-28,34,Male,Offline,tablet for entertainment,Tablet,64862,1,71,Night,Tablet,"10.5-inch display, 6GB RAM, 128GB",29500,26000,11.86
+VS20240445,2024-02-06,61,Male,Online,fast charger,Charger,4879,1,50,Evening,Charger,"45W fast charging, USB-C PD",3900,3300,15.38
+VS20240446,2025-05-02,60,Female,Offline,cordless vacuum cleaner,Vacuum Cleaner,83170,2,48,Night,Vacuum Cleaner,"1600W, cyclone, HEPA filter",41200,33800,17.96
+VS20240447,2024-04-09,29,Female,Offline,mobile with good camera,Mobile Phone,95984,1,51,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",158300,131400,16.99
+VS20240448,2024-08-15,41,Female,Online,energy efficient refrigerator,Refrigerator,52152,1,99,Night,Refrigerator,"300L, frost free, inverter, 3-star",26000,21800,16.15
+VS20240449,2025-04-19,55,Female,Online,phone with long battery life,Mobile Phone,53336,2,40,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",108500,96200,11.34
+VS20240450,2025-05-27,27,Female,Offline,laptop with good battery life,Laptop,48004,1,45,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",137400,122800,10.63
+VS20240451,2025-02-23,29,Female,Online,tablet with good battery,Tablet,61776,3,82,Night,Tablet,"10.5-inch display, 6GB RAM, 128GB",56000,46800,16.43
+VS20240452,2025-10-08,35,Female,Offline,tablet with good display,Tablet,112332,3,41,Morning,Tablet,"10.5-inch display, 6GB RAM, 128GB",43200,38500,10.88
+VS20240453,2024-06-11,45,Male,Online,high speed fan,Fan,8109,1,37,Evening,Fan,"1400mm BLDC, remote, high air delivery",13600,10800,20.59
+VS20240454,2025-01-27,38,Male,Offline,AC for a bedroom,AC,94603,1,49,Night,AC,"1.5 Ton, 5-star, inverter, Wi-Fi",86000,61400,28.6
+VS20240455,2025-11-23,37,Male,Online,oven with good capacity,Oven,9224,1,38,Night,Oven,"25L, convection, digital controls",21700,17200,20.74
+VS20240456,2025-05-30,36,Male,Online,charger for phone,Charger,4234,1,56,Morning,Charger,"25W fast charging, USB-C",1200,1100,8.33
+VS20240457,2025-09-02,39,Female,Offline,large screen TV,Television,143497,1,65,Night,Television,"43-inch 4K Smart TV, HDR",53700,43600,18.81
+VS20240458,2024-07-11,26,Female,Online,powerful vacuum cleaner,Vacuum Cleaner,18840,1,118,Morning,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",47600,35700,25.0
+VS20240459,2025-08-26,20,Male,Online,microwave oven for home cooking,Oven,17294,1,106,Evening,Oven,"30L, convection, stainless-steel cavity",31500,24400,22.54
+VS20240460,2025-07-01,19,Male,Offline,phone with good performance,Mobile Phone,20644,1,54,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",96700,91600,5.27
+VS20240461,2025-03-02,27,Male,Offline,large refrigerator for family,Refrigerator,44934,1,113,Evening,Refrigerator,"250L, double door, inverter compressor, 3-star",86700,68400,21.11
+VS20240462,2025-10-07,35,Female,Offline,console for AAA games,PS5,59845,1,37,Evening,PS5,"PS5 Slim Digital, 1TB SSD",54600,49400,9.52
+VS20240463,2024-04-17,49,Male,Online,charger for phone,Charger,2127,1,48,Night,Charger,"65W GaN charger, USB-C PD",3900,3300,15.38
+VS20240464,2024-09-26,28,Male,Online,laptop with good specs,Laptop,70328,2,90,Evening,Laptop,"Core i5, 16GB RAM, 512GB SSD",52800,41400,21.59
+VS20240465,2024-07-31,60,Female,Online,AC for a bedroom,AC,36665,1,39,Morning,AC,"1.5 Ton, 3-star, inverter",90800,77700,14.43
+VS20240466,2025-08-10,22,Male,Offline,water purifier for home,Water Purifier,13638,1,57,Night,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",51700,45200,12.57
+VS20240467,2024-08-24,29,Female,Online,PS5 for gaming,PS5,41292,1,57,Morning,PS5,"PS5 Slim Digital, 1TB SSD",54500,50100,8.07
+VS20240468,2025-11-24,20,Male,Online,tablet with good display,Tablet,11267,1,37,Night,Tablet,"10.5-inch display, 6GB RAM, 128GB",83800,64800,22.67
+VS20240469,2025-10-24,35,Female,Offline,console for AAA games,PS5,43045,1,67,Night,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",63400,58900,7.1
+VS20240470,2024-12-16,42,Female,Online,water purifier for family,Water Purifier,38342,1,78,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",46900,38700,17.48
+VS20240471,2024-06-19,24,Male,Offline,PS5 for gaming,PS5,53632,1,95,Night,PS5,"PS5 Slim Digital, 1TB SSD",53800,48200,10.41
+VS20240472,2025-08-05,57,Male,Offline,AC for a bedroom,AC,28777,1,112,Night,AC,"1.5 Ton, 3-star, inverter",68900,51200,25.69
+VS20240473,2024-05-13,20,Female,Online,UV and RO water purifier,Water Purifier,11150,1,58,Evening,Water Purifier,"RO+UV, 7L storage, 6-stage filtration",25600,19600,23.44
+VS20240474,2024-11-17,39,Male,Offline,gaming console,PS5,57009,1,86,Evening,PS5,"PS5 Slim Digital, 1TB SSD",57400,53300,7.14
+VS20240475,2025-12-18,40,Female,Offline,speaker for parties,Speaker,44996,1,53,Morning,Speaker,"20W Bluetooth, waterproof",24300,21500,11.52
+VS20240476,2025-01-29,50,Male,Online,PS5 with good storage,PS5,55377,1,83,Night,PS5,"PS5 Disc Edition, 1TB SSD, 4K gaming",58500,49900,14.7
+VS20240477,2024-06-18,35,Female,Online,water purifier for family,Water Purifier,10299,1,89,Evening,Water Purifier,"RO+UV+UF, 8L, mineral enhancer",45400,38500,15.2
+VS20240478,2025-07-17,46,Female,Offline,gaming laptop with good performance,Laptop,135022,1,93,Morning,Laptop,"Core i5, 16GB RAM, 512GB SSD",179100,139200,22.28
+VS20240479,2024-03-31,65,Female,Online,AC for a bedroom,AC,54658,2,38,Night,AC,"1.5 Ton, 3-star, inverter",79000,59400,24.81
+VS20240480,2025-02-26,57,Male,Offline,fast charger,Charger,2995,1,42,Night,Charger,"25W fast charging, USB-C",4500,3700,17.78
+VS20240481,2024-07-30,21,Female,Offline,smart TV for movies,Television,73436,1,78,Evening,Television,"43-inch 4K Smart TV, HDR",35700,27100,24.09
+VS20240482,2025-07-27,46,Female,Offline,tablet with good display,Tablet,24945,1,32,Evening,Tablet,"10.5-inch display, 6GB RAM, 128GB",71600,64400,10.06
+VS20240483,2025-11-05,36,Female,Online,powerful vacuum cleaner,Vacuum Cleaner,40893,1,91,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",55100,42200,23.41
+VS20240484,2025-12-19,65,Male,Offline,tablet for study,Tablet,63636,1,33,Night,Tablet,"12-inch display, 8GB RAM, 256GB",17300,13500,21.97
+VS20240485,2025-09-17,47,Male,Offline,phone with good performance,Mobile Phone,57959,1,55,Evening,Mobile Phone,"8GB RAM, 256GB, 108MP camera, fast charging",44100,34800,21.09
+VS20240486,2024-04-20,55,Male,Offline,tablet with good display,Tablet,26150,1,77,Night,Tablet,"12-inch display, 8GB RAM, 256GB",89600,82400,8.04
+VS20240487,2025-11-05,65,Male,Offline,AC for a bedroom,AC,31366,1,95,Morning,AC,"1.5 Ton, 3-star, inverter",54300,46700,14.0
+VS20240488,2025-08-22,26,Male,Offline,USB-C charger,Charger,1348,1,34,Morning,Charger,"65W GaN charger, USB-C PD",3800,3300,13.16
+VS20240489,2025-09-06,56,Female,Offline,PS5 with good storage,PS5,48134,1,55,Evening,PS5,"PS5 Slim Disc Edition, 1TB SSD",63500,56300,11.34
+VS20240490,2024-12-17,56,Female,Offline,fast charger,Charger,14088,3,29,Morning,Charger,"25W fast charging, USB-C",5800,5200,10.34
+VS20240491,2025-12-19,58,Female,Offline,water purifier for family,Water Purifier,21243,1,50,Night,Water Purifier,"RO+UV+UF, 10L, 7-stage filtration",50900,38700,23.97
+VS20240492,2025-10-01,63,Female,Offline,laptop for coding and study,Laptop,115208,1,42,Morning,Laptop,"Core i5, 16GB RAM, 512GB SSD",166400,140200,15.75
+VS20240493,2025-07-09,53,Female,Offline,large screen TV,Television,140926,1,94,Night,Television,"65-inch 4K OLED, Dolby Vision, Smart TV",198900,140100,29.56
+VS20240494,2025-11-14,18,Female,Offline,high speed fan,Fan,10064,1,16,Evening,Fan,"1200mm BLDC, remote control",2300,2000,13.04
+VS20240495,2025-01-25,28,Male,Online,oven with good capacity,Oven,14391,1,112,Night,Oven,"25L, convection, digital controls",15500,13600,12.26
+VS20240496,2024-05-29,40,Female,Online,phone with good performance,Mobile Phone,253288,2,16,Evening,Mobile Phone,"12GB RAM, 256GB, AMOLED, 5000mAh",15400,14700,4.55
+VS20240497,2025-11-22,33,Male,Offline,silent fan,Fan,9870,1,60,Evening,Fan,"1400mm BLDC, remote, high air delivery",14200,13500,4.93
+VS20240498,2025-12-13,61,Male,Offline,vacuum cleaner for pets,Vacuum Cleaner,25490,1,95,Evening,Vacuum Cleaner,"cordless, 200W, HEPA filter, 45-min runtime",16800,13800,17.86
+VS20240499,2024-01-14,46,Male,Offline,oven with good capacity,Oven,12390,1,106,Night,Oven,"30L, convection, stainless-steel cavity",26300,20800,20.91
+VS20240500,2025-12-27,36,Male,Offline,portable speaker,Speaker,30913,1,21,Night,Speaker,"80W party speaker, Bluetooth, bass boost",58300,46500,20.24

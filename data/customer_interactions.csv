@@ -1,0 +1,501 @@
+Interaction_ID,Customer_ID,Query,Target_Category,Budget,Ground_Truth_Product_ID,Clicked,Purchased,Rating,Timestamp
+INT_0001,USR_1092,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-08-03 18:00:00
+INT_0002,USR_1087,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,0,2.0,2025-09-15 15:00:00
+INT_0003,USR_1037,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD019,0,0,,2025-06-10 19:00:00
+INT_0004,USR_1088,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,4.0,2025-09-28 21:00:00
+INT_0005,USR_1050,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-05-11 12:00:00
+INT_0006,USR_1134,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,0,3.0,2025-08-30 17:00:00
+INT_0007,USR_1089,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD013,1,1,4.0,2025-09-21 10:00:00
+INT_0008,USR_1080,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-04-16 11:00:00
+INT_0009,USR_1145,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,0,0,,2025-09-27 15:00:00
+INT_0010,USR_1039,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,1,1,5.0,2025-08-05 19:00:00
+INT_0011,USR_1040,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-05-09 19:00:00
+INT_0012,USR_1062,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,0,2.0,2025-09-18 17:00:00
+INT_0013,USR_1040,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,0,0,,2025-09-25 09:00:00
+INT_0014,USR_1047,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,0,3.0,2025-02-04 08:00:00
+INT_0015,USR_1100,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,0,0,,2025-01-05 17:00:00
+INT_0016,USR_1102,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-06-28 14:00:00
+INT_0017,USR_1051,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-05-23 18:00:00
+INT_0018,USR_1012,Front load washing machine for large family under 45000,Washing Machine,45000,PROD005,1,1,5.0,2025-02-14 21:00:00
+INT_0019,USR_1133,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,5.0,2025-05-08 17:00:00
+INT_0020,USR_1128,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,0,2.0,2025-09-16 14:00:00
+INT_0021,USR_1136,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD011,1,1,4.0,2025-11-11 13:00:00
+INT_0022,USR_1112,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD013,1,1,5.0,2025-04-23 12:00:00
+INT_0023,USR_1080,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,0,0,,2025-08-08 13:00:00
+INT_0024,USR_1128,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-09-04 11:00:00
+INT_0025,USR_1122,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-08-28 08:00:00
+INT_0026,USR_1123,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,0,4.0,2025-12-12 10:00:00
+INT_0027,USR_1147,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,0,4.0,2025-12-04 15:00:00
+INT_0028,USR_1010,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,0,3.0,2025-10-25 10:00:00
+INT_0029,USR_1143,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,4.0,2025-10-31 21:00:00
+INT_0030,USR_1036,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD021,1,1,5.0,2025-07-27 10:00:00
+INT_0031,USR_1053,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,1,1,4.0,2025-04-14 11:00:00
+INT_0032,USR_1111,Need a budget laptop for college and office under 50000,Laptop,50000,PROD001,1,1,4.0,2025-12-04 09:00:00
+INT_0033,USR_1067,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,0,4.0,2025-07-14 08:00:00
+INT_0034,USR_1114,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD003,1,1,5.0,2025-02-20 13:00:00
+INT_0035,USR_1026,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,1,5.0,2025-11-13 10:00:00
+INT_0036,USR_1034,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,0,3.0,2025-02-15 12:00:00
+INT_0037,USR_1098,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,0,0,,2025-12-15 08:00:00
+INT_0038,USR_1094,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,0,0,,2025-07-10 20:00:00
+INT_0039,USR_1066,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,0,3.0,2025-11-19 15:00:00
+INT_0040,USR_1023,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,4.0,2025-09-30 15:00:00
+INT_0041,USR_1136,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD003,1,1,5.0,2025-12-21 09:00:00
+INT_0042,USR_1059,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,2.0,2025-09-21 21:00:00
+INT_0043,USR_1141,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD027,1,1,4.0,2025-08-03 13:00:00
+INT_0044,USR_1062,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,0,0,,2025-02-27 13:00:00
+INT_0045,USR_1069,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,1,5.0,2025-03-01 19:00:00
+INT_0046,USR_1004,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,0,0,,2025-12-16 10:00:00
+INT_0047,USR_1051,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,0,0,,2025-04-16 21:00:00
+INT_0048,USR_1144,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,0,3.0,2025-08-17 17:00:00
+INT_0049,USR_1061,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,4.0,2025-01-01 09:00:00
+INT_0050,USR_1047,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,0,0,,2025-09-29 20:00:00
+INT_0051,USR_1068,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-03-27 16:00:00
+INT_0052,USR_1068,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,0,2.0,2025-07-23 17:00:00
+INT_0053,USR_1084,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,1,1,5.0,2025-01-10 13:00:00
+INT_0054,USR_1099,Affordable top load washing machine below 25k,Washing Machine,25000,PROD007,1,1,5.0,2025-09-14 15:00:00
+INT_0055,USR_1003,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,0,0,,2025-09-15 08:00:00
+INT_0056,USR_1139,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,1,5.0,2025-04-11 19:00:00
+INT_0057,USR_1064,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,0,0,,2025-02-13 20:00:00
+INT_0058,USR_1011,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-12-03 17:00:00
+INT_0059,USR_1092,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,0,2.0,2025-07-15 17:00:00
+INT_0060,USR_1113,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,0,0,,2025-08-05 12:00:00
+INT_0061,USR_1137,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-02-05 09:00:00
+INT_0062,USR_1095,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,0,0,,2025-02-06 19:00:00
+INT_0063,USR_1012,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-03-25 16:00:00
+INT_0064,USR_1140,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,5.0,2025-03-17 16:00:00
+INT_0065,USR_1027,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,0,0,,2025-12-05 17:00:00
+INT_0066,USR_1143,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-02-22 14:00:00
+INT_0067,USR_1056,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,0,0,,2025-07-05 14:00:00
+INT_0068,USR_1121,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,0,0,,2025-08-23 18:00:00
+INT_0069,USR_1075,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD031,0,0,,2025-09-10 13:00:00
+INT_0070,USR_1140,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,0,3.0,2025-01-05 20:00:00
+INT_0071,USR_1082,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,0,0,,2025-12-08 11:00:00
+INT_0072,USR_1070,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,4.0,2025-12-30 13:00:00
+INT_0073,USR_1090,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,4.0,2025-08-30 19:00:00
+INT_0074,USR_1060,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,1,0,3.0,2025-07-10 19:00:00
+INT_0075,USR_1055,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,0,2.0,2025-06-09 20:00:00
+INT_0076,USR_1148,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-09-09 12:00:00
+INT_0077,USR_1146,Front load washing machine for large family under 45000,Washing Machine,45000,PROD008,1,1,5.0,2025-01-01 12:00:00
+INT_0078,USR_1117,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,0,3.0,2025-08-12 15:00:00
+INT_0079,USR_1116,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD009,1,1,5.0,2025-06-27 19:00:00
+INT_0080,USR_1040,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,4.0,2025-07-31 20:00:00
+INT_0081,USR_1140,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD027,0,0,,2025-03-23 10:00:00
+INT_0082,USR_1046,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,0,4.0,2025-12-31 12:00:00
+INT_0083,USR_1117,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD004,0,0,,2025-06-26 18:00:00
+INT_0084,USR_1025,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,0,0,,2025-10-10 08:00:00
+INT_0085,USR_1097,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,4.0,2025-07-16 12:00:00
+INT_0086,USR_1002,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD011,1,0,3.0,2025-03-24 08:00:00
+INT_0087,USR_1077,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,4.0,2025-10-15 09:00:00
+INT_0088,USR_1038,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,0,4.0,2025-11-02 19:00:00
+INT_0089,USR_1053,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD004,1,0,2.0,2025-04-22 14:00:00
+INT_0090,USR_1084,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,0,3.0,2025-10-21 09:00:00
+INT_0091,USR_1081,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,1,0,2.0,2025-06-15 08:00:00
+INT_0092,USR_1029,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-05-13 20:00:00
+INT_0093,USR_1137,Front load washing machine for large family under 45000,Washing Machine,45000,PROD008,1,1,5.0,2025-02-03 13:00:00
+INT_0094,USR_1125,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,4.0,2025-07-02 18:00:00
+INT_0095,USR_1143,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-07-14 18:00:00
+INT_0096,USR_1060,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,1,1,4.0,2025-11-13 13:00:00
+INT_0097,USR_1069,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,5.0,2025-03-19 17:00:00
+INT_0098,USR_1072,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,3.0,2025-04-17 20:00:00
+INT_0099,USR_1025,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-10-30 15:00:00
+INT_0100,USR_1013,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-01-14 18:00:00
+INT_0101,USR_1006,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,0,0,,2025-12-29 19:00:00
+INT_0102,USR_1017,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,4.0,2025-01-28 17:00:00
+INT_0103,USR_1016,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-07-31 16:00:00
+INT_0104,USR_1137,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,1,5.0,2025-02-03 15:00:00
+INT_0105,USR_1112,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,1,5.0,2025-11-16 09:00:00
+INT_0106,USR_1120,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,4.0,2025-01-04 21:00:00
+INT_0107,USR_1061,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,0,4.0,2025-08-31 15:00:00
+INT_0108,USR_1035,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,0,0,,2025-08-08 18:00:00
+INT_0109,USR_1078,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,1,5.0,2025-07-13 18:00:00
+INT_0110,USR_1025,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,1,4.0,2025-10-02 11:00:00
+INT_0111,USR_1019,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,1,4.0,2025-10-20 21:00:00
+INT_0112,USR_1099,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-09-18 14:00:00
+INT_0113,USR_1129,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,1,5.0,2025-09-30 16:00:00
+INT_0114,USR_1142,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-11-14 19:00:00
+INT_0115,USR_1077,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD021,0,0,,2025-03-17 10:00:00
+INT_0116,USR_1000,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,0,4.0,2025-12-27 12:00:00
+INT_0117,USR_1059,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,0,4.0,2025-03-19 17:00:00
+INT_0118,USR_1088,Front load washing machine for large family under 45000,Washing Machine,45000,PROD008,1,0,4.0,2025-04-14 21:00:00
+INT_0119,USR_1124,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,4.0,2025-08-13 14:00:00
+INT_0120,USR_1052,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD004,1,1,5.0,2025-06-28 15:00:00
+INT_0121,USR_1014,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD018,1,0,4.0,2025-06-06 13:00:00
+INT_0122,USR_1032,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,0,4.0,2025-11-26 08:00:00
+INT_0123,USR_1037,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-01-15 20:00:00
+INT_0124,USR_1004,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD014,1,0,4.0,2025-04-05 10:00:00
+INT_0125,USR_1035,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,1,0,3.0,2025-11-26 15:00:00
+INT_0126,USR_1133,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD010,1,0,3.0,2025-05-21 15:00:00
+INT_0127,USR_1110,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD031,1,1,5.0,2025-05-13 15:00:00
+INT_0128,USR_1071,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,4.0,2025-02-20 20:00:00
+INT_0129,USR_1039,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,0,0,,2025-09-14 21:00:00
+INT_0130,USR_1148,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,0,2.0,2025-11-15 13:00:00
+INT_0131,USR_1142,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,5.0,2025-04-27 17:00:00
+INT_0132,USR_1034,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,0,3.0,2025-07-29 18:00:00
+INT_0133,USR_1090,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,1,1,4.0,2025-06-01 16:00:00
+INT_0134,USR_1087,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,4.0,2025-02-18 14:00:00
+INT_0135,USR_1083,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,0,4.0,2025-07-08 15:00:00
+INT_0136,USR_1070,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,0,4.0,2025-07-30 21:00:00
+INT_0137,USR_1029,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-07-13 13:00:00
+INT_0138,USR_1113,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,1,4.0,2025-02-24 14:00:00
+INT_0139,USR_1031,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,0,0,,2025-06-11 19:00:00
+INT_0140,USR_1086,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD004,0,0,,2025-12-15 15:00:00
+INT_0141,USR_1056,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,0,2.0,2025-11-24 13:00:00
+INT_0142,USR_1066,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,0,4.0,2025-04-06 15:00:00
+INT_0143,USR_1031,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,0,0,,2025-06-14 13:00:00
+INT_0144,USR_1141,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,0,0,,2025-01-07 17:00:00
+INT_0145,USR_1084,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-01-02 08:00:00
+INT_0146,USR_1147,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-07-14 14:00:00
+INT_0147,USR_1019,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,1,1,5.0,2025-12-21 11:00:00
+INT_0148,USR_1107,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,0,0,,2025-04-30 18:00:00
+INT_0149,USR_1127,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-08-25 16:00:00
+INT_0150,USR_1021,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,0,0,,2025-01-29 20:00:00
+INT_0151,USR_1036,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD001,0,0,,2025-12-07 17:00:00
+INT_0152,USR_1040,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,0,3.0,2025-03-17 14:00:00
+INT_0153,USR_1105,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,5.0,2025-04-08 19:00:00
+INT_0154,USR_1052,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,0,0,,2025-07-09 17:00:00
+INT_0155,USR_1063,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,0,0,,2025-07-12 10:00:00
+INT_0156,USR_1035,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,0,4.0,2025-06-13 08:00:00
+INT_0157,USR_1053,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,0,2.0,2025-11-08 08:00:00
+INT_0158,USR_1147,Front load washing machine for large family under 45000,Washing Machine,45000,PROD005,0,0,,2025-12-03 21:00:00
+INT_0159,USR_1072,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-02-11 16:00:00
+INT_0160,USR_1034,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,0,3.0,2025-04-12 09:00:00
+INT_0161,USR_1018,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD019,1,0,2.0,2025-11-26 16:00:00
+INT_0162,USR_1046,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,0,0,,2025-12-05 15:00:00
+INT_0163,USR_1080,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,0,2.0,2025-03-30 19:00:00
+INT_0164,USR_1058,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-02-16 17:00:00
+INT_0165,USR_1144,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,1,0,3.0,2025-12-01 12:00:00
+INT_0166,USR_1136,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-08-11 21:00:00
+INT_0167,USR_1145,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,0,4.0,2025-04-18 19:00:00
+INT_0168,USR_1097,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-02-08 15:00:00
+INT_0169,USR_1003,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-04-18 21:00:00
+INT_0170,USR_1054,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,0,0,,2025-09-08 14:00:00
+INT_0171,USR_1140,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,0,0,,2025-02-08 21:00:00
+INT_0172,USR_1028,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,1,1,5.0,2025-08-24 16:00:00
+INT_0173,USR_1102,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD017,1,1,5.0,2025-06-07 09:00:00
+INT_0174,USR_1145,Front load washing machine for large family under 45000,Washing Machine,45000,PROD005,1,1,5.0,2025-03-14 08:00:00
+INT_0175,USR_1139,Front load washing machine for large family under 45000,Washing Machine,45000,PROD008,1,1,5.0,2025-10-22 15:00:00
+INT_0176,USR_1087,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,1,5.0,2025-02-28 15:00:00
+INT_0177,USR_1092,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,1,4.0,2025-08-14 16:00:00
+INT_0178,USR_1002,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,1,4.0,2025-01-09 10:00:00
+INT_0179,USR_1121,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,1,5.0,2025-05-25 15:00:00
+INT_0180,USR_1012,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,1,5.0,2025-04-08 18:00:00
+INT_0181,USR_1066,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD013,1,1,5.0,2025-06-19 16:00:00
+INT_0182,USR_1039,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,4.0,2025-02-07 15:00:00
+INT_0183,USR_1089,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,0,0,,2025-06-25 20:00:00
+INT_0184,USR_1080,Affordable top load washing machine below 25k,Washing Machine,25000,PROD007,0,0,,2025-11-14 20:00:00
+INT_0185,USR_1066,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,4.0,2025-09-19 15:00:00
+INT_0186,USR_1079,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,0,0,,2025-02-28 16:00:00
+INT_0187,USR_1106,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,0,0,,2025-12-22 18:00:00
+INT_0188,USR_1006,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,0,0,,2025-09-06 10:00:00
+INT_0189,USR_1137,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD018,1,0,3.0,2025-12-22 09:00:00
+INT_0190,USR_1076,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,1,5.0,2025-04-23 16:00:00
+INT_0191,USR_1103,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,1,5.0,2025-11-22 10:00:00
+INT_0192,USR_1073,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,0,0,,2025-03-01 21:00:00
+INT_0193,USR_1021,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,4.0,2025-01-17 19:00:00
+INT_0194,USR_1144,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,4.0,2025-11-02 21:00:00
+INT_0195,USR_1028,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-01-29 18:00:00
+INT_0196,USR_1133,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,1,4.0,2025-08-14 20:00:00
+INT_0197,USR_1098,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,0,2.0,2025-03-16 11:00:00
+INT_0198,USR_1083,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD003,1,0,2.0,2025-01-21 12:00:00
+INT_0199,USR_1005,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,1,1,4.0,2025-01-15 09:00:00
+INT_0200,USR_1063,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,1,5.0,2025-01-27 15:00:00
+INT_0201,USR_1144,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-07-18 10:00:00
+INT_0202,USR_1023,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD021,1,0,2.0,2025-08-10 21:00:00
+INT_0203,USR_1016,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,4.0,2025-11-15 13:00:00
+INT_0204,USR_1116,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,0,2.0,2025-03-13 12:00:00
+INT_0205,USR_1063,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,0,0,,2025-06-15 18:00:00
+INT_0206,USR_1032,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,0,0,,2025-09-24 13:00:00
+INT_0207,USR_1087,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,4.0,2025-11-06 13:00:00
+INT_0208,USR_1096,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,1,4.0,2025-04-26 17:00:00
+INT_0209,USR_1102,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,0,3.0,2025-05-23 09:00:00
+INT_0210,USR_1118,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD017,0,0,,2025-11-13 10:00:00
+INT_0211,USR_1008,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,1,1,5.0,2025-09-21 15:00:00
+INT_0212,USR_1091,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD032,1,0,4.0,2025-03-25 11:00:00
+INT_0213,USR_1057,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,1,1,4.0,2025-01-14 18:00:00
+INT_0214,USR_1011,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,1,0,3.0,2025-05-27 14:00:00
+INT_0215,USR_1099,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,0,0,,2025-11-05 14:00:00
+INT_0216,USR_1043,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,5.0,2025-12-27 18:00:00
+INT_0217,USR_1034,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,1,5.0,2025-11-01 21:00:00
+INT_0218,USR_1023,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,5.0,2025-06-01 09:00:00
+INT_0219,USR_1095,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-12-01 09:00:00
+INT_0220,USR_1005,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,0,0,,2025-07-05 13:00:00
+INT_0221,USR_1130,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,1,0,4.0,2025-10-09 15:00:00
+INT_0222,USR_1086,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-02-10 21:00:00
+INT_0223,USR_1059,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-08-19 13:00:00
+INT_0224,USR_1122,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,0,2.0,2025-06-13 20:00:00
+INT_0225,USR_1030,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-09-23 19:00:00
+INT_0226,USR_1000,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,0,2.0,2025-03-05 13:00:00
+INT_0227,USR_1027,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,0,2.0,2025-11-01 08:00:00
+INT_0228,USR_1055,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,0,0,,2025-04-18 18:00:00
+INT_0229,USR_1113,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,1,1,4.0,2025-01-01 14:00:00
+INT_0230,USR_1058,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,1,4.0,2025-06-30 09:00:00
+INT_0231,USR_1125,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,0,4.0,2025-07-03 18:00:00
+INT_0232,USR_1037,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,1,1,5.0,2025-08-22 19:00:00
+INT_0233,USR_1084,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,1,5.0,2025-03-27 09:00:00
+INT_0234,USR_1054,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD004,1,1,4.0,2025-01-26 15:00:00
+INT_0235,USR_1112,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-10-29 11:00:00
+INT_0236,USR_1000,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,1,5.0,2025-03-31 21:00:00
+INT_0237,USR_1062,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD004,1,0,2.0,2025-09-02 20:00:00
+INT_0238,USR_1067,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,0,4.0,2025-03-23 20:00:00
+INT_0239,USR_1022,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,1,5.0,2025-03-30 12:00:00
+INT_0240,USR_1064,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,0,2.0,2025-11-01 08:00:00
+INT_0241,USR_1101,Need a budget laptop for college and office under 50000,Laptop,50000,PROD001,1,0,3.0,2025-09-22 10:00:00
+INT_0242,USR_1025,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,0,0,,2025-04-27 20:00:00
+INT_0243,USR_1132,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD019,1,1,5.0,2025-12-09 13:00:00
+INT_0244,USR_1107,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,1,1,4.0,2025-10-30 12:00:00
+INT_0245,USR_1024,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-10-02 09:00:00
+INT_0246,USR_1124,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,0,2.0,2025-08-27 19:00:00
+INT_0247,USR_1135,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,0,2.0,2025-03-18 11:00:00
+INT_0248,USR_1006,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-11-08 08:00:00
+INT_0249,USR_1041,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD018,1,1,5.0,2025-06-21 15:00:00
+INT_0250,USR_1105,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-08-08 16:00:00
+INT_0251,USR_1014,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,0,2.0,2025-06-03 18:00:00
+INT_0252,USR_1067,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,0,0,,2025-03-01 14:00:00
+INT_0253,USR_1088,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,1,5.0,2025-06-24 08:00:00
+INT_0254,USR_1107,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,1,4.0,2025-05-23 10:00:00
+INT_0255,USR_1010,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-09-15 10:00:00
+INT_0256,USR_1084,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-10-07 19:00:00
+INT_0257,USR_1018,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,0,2.0,2025-02-05 15:00:00
+INT_0258,USR_1096,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,4.0,2025-07-15 20:00:00
+INT_0259,USR_1059,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,1,5.0,2025-08-18 15:00:00
+INT_0260,USR_1066,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD031,1,1,5.0,2025-08-03 19:00:00
+INT_0261,USR_1101,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,1,1,4.0,2025-10-27 17:00:00
+INT_0262,USR_1076,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-06-07 16:00:00
+INT_0263,USR_1011,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,1,0,3.0,2025-08-25 14:00:00
+INT_0264,USR_1103,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,0,2.0,2025-05-01 21:00:00
+INT_0265,USR_1083,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,0,2.0,2025-09-29 19:00:00
+INT_0266,USR_1141,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD009,1,1,5.0,2025-09-15 18:00:00
+INT_0267,USR_1074,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,0,3.0,2025-11-07 13:00:00
+INT_0268,USR_1149,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,0,0,,2025-04-11 11:00:00
+INT_0269,USR_1011,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD018,1,0,4.0,2025-06-07 15:00:00
+INT_0270,USR_1133,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,0,4.0,2025-06-12 09:00:00
+INT_0271,USR_1019,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,0,0,,2025-10-08 20:00:00
+INT_0272,USR_1032,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,5.0,2025-01-25 20:00:00
+INT_0273,USR_1135,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,4.0,2025-01-12 19:00:00
+INT_0274,USR_1030,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-12-15 18:00:00
+INT_0275,USR_1059,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,1,1,4.0,2025-12-11 09:00:00
+INT_0276,USR_1055,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,4.0,2025-06-05 21:00:00
+INT_0277,USR_1114,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-02-09 08:00:00
+INT_0278,USR_1102,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,0,3.0,2025-08-19 09:00:00
+INT_0279,USR_1115,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-01-14 14:00:00
+INT_0280,USR_1085,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-08-18 12:00:00
+INT_0281,USR_1057,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,1,5.0,2025-08-01 12:00:00
+INT_0282,USR_1138,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD031,0,0,,2025-07-02 12:00:00
+INT_0283,USR_1033,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-02-11 12:00:00
+INT_0284,USR_1140,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,0,2.0,2025-05-09 09:00:00
+INT_0285,USR_1028,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,0,0,,2025-08-20 12:00:00
+INT_0286,USR_1033,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-12-09 15:00:00
+INT_0287,USR_1068,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,2.0,2025-07-19 16:00:00
+INT_0288,USR_1128,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-10-04 15:00:00
+INT_0289,USR_1138,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,0,0,,2025-01-28 10:00:00
+INT_0290,USR_1004,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,0,0,,2025-01-08 17:00:00
+INT_0291,USR_1110,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD009,0,0,,2025-08-11 15:00:00
+INT_0292,USR_1072,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,1,5.0,2025-03-19 16:00:00
+INT_0293,USR_1121,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,0,0,,2025-09-23 12:00:00
+INT_0294,USR_1139,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-10-15 19:00:00
+INT_0295,USR_1010,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD001,1,1,4.0,2025-11-11 21:00:00
+INT_0296,USR_1021,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,0,0,,2025-06-21 10:00:00
+INT_0297,USR_1112,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,0,4.0,2025-02-08 08:00:00
+INT_0298,USR_1017,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,1,0,3.0,2025-12-26 21:00:00
+INT_0299,USR_1085,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-09-15 20:00:00
+INT_0300,USR_1026,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,4.0,2025-10-05 18:00:00
+INT_0301,USR_1096,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-10-22 19:00:00
+INT_0302,USR_1024,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,4.0,2025-05-09 19:00:00
+INT_0303,USR_1002,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-01-10 12:00:00
+INT_0304,USR_1065,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,4.0,2025-03-31 17:00:00
+INT_0305,USR_1011,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,0,2.0,2025-01-20 18:00:00
+INT_0306,USR_1069,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD027,0,0,,2025-05-12 20:00:00
+INT_0307,USR_1019,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,1,5.0,2025-11-06 15:00:00
+INT_0308,USR_1148,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-09-30 14:00:00
+INT_0309,USR_1003,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,4.0,2025-09-11 15:00:00
+INT_0310,USR_1081,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD003,1,1,5.0,2025-07-30 13:00:00
+INT_0311,USR_1075,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,4.0,2025-06-22 11:00:00
+INT_0312,USR_1145,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,0,4.0,2025-11-09 19:00:00
+INT_0313,USR_1044,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,4.0,2025-07-17 21:00:00
+INT_0314,USR_1102,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-02-19 10:00:00
+INT_0315,USR_1106,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD020,0,0,,2025-07-17 08:00:00
+INT_0316,USR_1050,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-12-15 12:00:00
+INT_0317,USR_1048,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,0,0,,2025-12-22 13:00:00
+INT_0318,USR_1125,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,1,5.0,2025-11-22 16:00:00
+INT_0319,USR_1059,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,0,2.0,2025-02-05 12:00:00
+INT_0320,USR_1105,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD019,1,1,5.0,2025-04-30 17:00:00
+INT_0321,USR_1143,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD027,1,0,2.0,2025-10-28 11:00:00
+INT_0322,USR_1083,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,4.0,2025-01-07 13:00:00
+INT_0323,USR_1147,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-06-03 19:00:00
+INT_0324,USR_1056,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,0,0,,2025-03-10 10:00:00
+INT_0325,USR_1048,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,0,0,,2025-06-10 09:00:00
+INT_0326,USR_1126,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,0,0,,2025-10-16 08:00:00
+INT_0327,USR_1027,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD003,1,0,2.0,2025-04-08 13:00:00
+INT_0328,USR_1097,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,0,2.0,2025-03-07 17:00:00
+INT_0329,USR_1143,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,1,1,4.0,2025-10-21 19:00:00
+INT_0330,USR_1098,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,1,4.0,2025-01-20 17:00:00
+INT_0331,USR_1109,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,1,5.0,2025-04-26 19:00:00
+INT_0332,USR_1124,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,0,0,,2025-01-26 08:00:00
+INT_0333,USR_1130,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD004,1,1,4.0,2025-10-06 16:00:00
+INT_0334,USR_1146,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,1,1,4.0,2025-10-24 11:00:00
+INT_0335,USR_1084,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-07-29 17:00:00
+INT_0336,USR_1011,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,1,5.0,2025-12-29 15:00:00
+INT_0337,USR_1128,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD009,1,0,4.0,2025-04-11 11:00:00
+INT_0338,USR_1109,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD009,0,0,,2025-01-12 18:00:00
+INT_0339,USR_1118,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,1,0,2.0,2025-06-07 20:00:00
+INT_0340,USR_1003,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD004,0,0,,2025-02-28 14:00:00
+INT_0341,USR_1024,Affordable top load washing machine below 25k,Washing Machine,25000,PROD007,1,0,3.0,2025-05-13 10:00:00
+INT_0342,USR_1115,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,0,2.0,2025-12-30 19:00:00
+INT_0343,USR_1130,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,1,4.0,2025-08-06 21:00:00
+INT_0344,USR_1033,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,0,2.0,2025-10-06 13:00:00
+INT_0345,USR_1068,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,0,0,,2025-12-13 10:00:00
+INT_0346,USR_1124,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD003,1,0,4.0,2025-07-20 11:00:00
+INT_0347,USR_1086,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD001,1,0,4.0,2025-10-21 12:00:00
+INT_0348,USR_1056,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,0,2.0,2025-02-08 16:00:00
+INT_0349,USR_1076,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,0,4.0,2025-04-01 09:00:00
+INT_0350,USR_1037,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-11-30 18:00:00
+INT_0351,USR_1112,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,0,4.0,2025-05-30 16:00:00
+INT_0352,USR_1109,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,1,0,2.0,2025-11-23 21:00:00
+INT_0353,USR_1123,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,0,3.0,2025-04-30 13:00:00
+INT_0354,USR_1060,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,5.0,2025-11-04 16:00:00
+INT_0355,USR_1052,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,0,4.0,2025-03-09 19:00:00
+INT_0356,USR_1001,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,0,4.0,2025-09-12 14:00:00
+INT_0357,USR_1061,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD027,1,1,5.0,2025-02-19 12:00:00
+INT_0358,USR_1068,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,1,5.0,2025-07-20 20:00:00
+INT_0359,USR_1067,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,0,2.0,2025-12-09 15:00:00
+INT_0360,USR_1075,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,1,1,4.0,2025-08-20 12:00:00
+INT_0361,USR_1037,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,5.0,2025-01-28 11:00:00
+INT_0362,USR_1075,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,0,3.0,2025-12-13 14:00:00
+INT_0363,USR_1000,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD013,1,0,3.0,2025-03-02 19:00:00
+INT_0364,USR_1026,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD009,1,0,2.0,2025-04-19 08:00:00
+INT_0365,USR_1141,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,1,5.0,2025-02-18 21:00:00
+INT_0366,USR_1135,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,1,5.0,2025-07-11 21:00:00
+INT_0367,USR_1106,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,0,2.0,2025-02-10 08:00:00
+INT_0368,USR_1050,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,5.0,2025-05-27 18:00:00
+INT_0369,USR_1126,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,5.0,2025-04-19 19:00:00
+INT_0370,USR_1044,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD026,0,0,,2025-01-08 16:00:00
+INT_0371,USR_1086,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,0,0,,2025-06-26 11:00:00
+INT_0372,USR_1145,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,1,1,5.0,2025-05-27 19:00:00
+INT_0373,USR_1083,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,1,5.0,2025-09-15 20:00:00
+INT_0374,USR_1050,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,1,5.0,2025-02-08 19:00:00
+INT_0375,USR_1083,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,1,5.0,2025-12-16 15:00:00
+INT_0376,USR_1080,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD003,1,1,4.0,2025-12-23 12:00:00
+INT_0377,USR_1126,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,0,2.0,2025-04-17 09:00:00
+INT_0378,USR_1098,Front load washing machine for large family under 45000,Washing Machine,45000,PROD005,1,0,3.0,2025-07-07 19:00:00
+INT_0379,USR_1031,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD004,0,0,,2025-12-01 16:00:00
+INT_0380,USR_1074,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,1,5.0,2025-06-16 09:00:00
+INT_0381,USR_1006,Affordable top load washing machine below 25k,Washing Machine,25000,PROD007,0,0,,2025-07-12 11:00:00
+INT_0382,USR_1145,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,5.0,2025-11-01 08:00:00
+INT_0383,USR_1063,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD011,1,1,5.0,2025-11-17 11:00:00
+INT_0384,USR_1108,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,0,4.0,2025-03-16 20:00:00
+INT_0385,USR_1106,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-09-02 21:00:00
+INT_0386,USR_1121,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,0,0,,2025-12-23 10:00:00
+INT_0387,USR_1017,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,0,0,,2025-03-18 18:00:00
+INT_0388,USR_1125,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-06-14 16:00:00
+INT_0389,USR_1140,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,0,4.0,2025-02-11 09:00:00
+INT_0390,USR_1050,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,2.0,2025-10-27 18:00:00
+INT_0391,USR_1067,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,1,1,5.0,2025-04-21 09:00:00
+INT_0392,USR_1016,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-10-02 12:00:00
+INT_0393,USR_1084,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,0,0,,2025-04-11 11:00:00
+INT_0394,USR_1146,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-02-16 19:00:00
+INT_0395,USR_1148,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,5.0,2025-02-15 17:00:00
+INT_0396,USR_1069,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD019,1,0,3.0,2025-07-02 17:00:00
+INT_0397,USR_1101,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-07-11 16:00:00
+INT_0398,USR_1081,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,5.0,2025-06-12 16:00:00
+INT_0399,USR_1115,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,1,4.0,2025-03-04 13:00:00
+INT_0400,USR_1068,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,0,3.0,2025-01-22 20:00:00
+INT_0401,USR_1066,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,5.0,2025-07-13 16:00:00
+INT_0402,USR_1029,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,0,3.0,2025-04-23 15:00:00
+INT_0403,USR_1029,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD010,1,0,2.0,2025-02-06 20:00:00
+INT_0404,USR_1135,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,0,4.0,2025-07-13 15:00:00
+INT_0405,USR_1033,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD013,1,1,4.0,2025-12-21 15:00:00
+INT_0406,USR_1141,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,0,0,,2025-10-17 20:00:00
+INT_0407,USR_1122,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,1,1,5.0,2025-05-24 13:00:00
+INT_0408,USR_1012,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD003,1,0,4.0,2025-08-03 21:00:00
+INT_0409,USR_1052,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,4.0,2025-02-22 10:00:00
+INT_0410,USR_1030,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,5.0,2025-02-23 11:00:00
+INT_0411,USR_1113,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,0,4.0,2025-01-22 21:00:00
+INT_0412,USR_1058,Front load washing machine for large family under 45000,Washing Machine,45000,PROD007,1,1,4.0,2025-12-04 15:00:00
+INT_0413,USR_1126,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD001,1,1,4.0,2025-12-15 17:00:00
+INT_0414,USR_1095,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD031,0,0,,2025-03-29 09:00:00
+INT_0415,USR_1133,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,1,4.0,2025-03-06 18:00:00
+INT_0416,USR_1136,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,1,0,4.0,2025-11-03 20:00:00
+INT_0417,USR_1111,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,1,1,4.0,2025-11-12 18:00:00
+INT_0418,USR_1022,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,0,0,,2025-04-11 08:00:00
+INT_0419,USR_1010,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD021,1,1,4.0,2025-07-30 19:00:00
+INT_0420,USR_1041,Affordable top load washing machine below 25k,Washing Machine,25000,PROD007,1,1,5.0,2025-12-21 09:00:00
+INT_0421,USR_1104,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-01-31 09:00:00
+INT_0422,USR_1136,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD026,1,0,2.0,2025-04-10 20:00:00
+INT_0423,USR_1136,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,3.0,2025-05-29 19:00:00
+INT_0424,USR_1053,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,0,0,,2025-09-09 18:00:00
+INT_0425,USR_1012,Need a budget laptop for college and office under 50000,Laptop,50000,PROD001,1,1,4.0,2025-02-22 17:00:00
+INT_0426,USR_1012,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,4.0,2025-05-18 10:00:00
+INT_0427,USR_1110,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,0,0,,2025-01-24 20:00:00
+INT_0428,USR_1121,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-06-24 08:00:00
+INT_0429,USR_1091,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD015,1,1,5.0,2025-08-10 16:00:00
+INT_0430,USR_1133,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD002,1,1,5.0,2025-01-07 11:00:00
+INT_0431,USR_1015,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,1,1,5.0,2025-11-03 16:00:00
+INT_0432,USR_1007,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-05-12 15:00:00
+INT_0433,USR_1097,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,1,5.0,2025-01-04 17:00:00
+INT_0434,USR_1136,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD013,1,0,4.0,2025-05-23 19:00:00
+INT_0435,USR_1016,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-10-28 10:00:00
+INT_0436,USR_1103,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-06-24 11:00:00
+INT_0437,USR_1056,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,1,1,4.0,2025-01-05 11:00:00
+INT_0438,USR_1104,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,1,0,4.0,2025-08-14 20:00:00
+INT_0439,USR_1045,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,1,0,3.0,2025-03-19 17:00:00
+INT_0440,USR_1140,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,0,2.0,2025-08-23 19:00:00
+INT_0441,USR_1074,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD004,0,0,,2025-06-05 19:00:00
+INT_0442,USR_1015,Double door frost free refrigerator for family under 35000,Refrigerator,35000,PROD012,1,1,5.0,2025-11-28 18:00:00
+INT_0443,USR_1088,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,4.0,2025-09-17 19:00:00
+INT_0444,USR_1028,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,0,0,,2025-04-17 18:00:00
+INT_0445,USR_1079,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,5.0,2025-12-18 11:00:00
+INT_0446,USR_1093,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-12-08 20:00:00
+INT_0447,USR_1043,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-09-12 18:00:00
+INT_0448,USR_1103,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,5.0,2025-12-15 10:00:00
+INT_0449,USR_1140,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD019,0,0,,2025-09-05 14:00:00
+INT_0450,USR_1128,Looking for a gaming laptop with dedicated GPU under 80000,Laptop,80000,PROD001,1,1,5.0,2025-04-27 21:00:00
+INT_0451,USR_1098,Need a budget laptop for college and office under 50000,Laptop,50000,PROD004,1,1,5.0,2025-04-26 20:00:00
+INT_0452,USR_1090,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,0,0,,2025-09-14 17:00:00
+INT_0453,USR_1147,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,1,4.0,2025-07-12 08:00:00
+INT_0454,USR_1097,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD040,1,1,5.0,2025-11-08 10:00:00
+INT_0455,USR_1098,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,0,0,,2025-04-19 19:00:00
+INT_0456,USR_1046,Single door compact fridge for small room under 20k,Refrigerator,20000,PROD011,0,0,,2025-05-13 12:00:00
+INT_0457,USR_1131,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD024,0,0,,2025-08-30 11:00:00
+INT_0458,USR_1135,Compact 32 inch HD TV for bedroom under 20000,Television,20000,PROD021,1,0,3.0,2025-11-20 17:00:00
+INT_0459,USR_1128,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,0,2.0,2025-06-13 09:00:00
+INT_0460,USR_1003,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,0,0,,2025-06-30 15:00:00
+INT_0461,USR_1022,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,1,1,5.0,2025-09-06 19:00:00
+INT_0462,USR_1069,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,0,0,,2025-04-13 13:00:00
+INT_0463,USR_1060,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD037,0,0,,2025-12-08 11:00:00
+INT_0464,USR_1037,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,1,1,5.0,2025-11-10 09:00:00
+INT_0465,USR_1024,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,4.0,2025-02-16 13:00:00
+INT_0466,USR_1038,Front load washing machine for large family under 45000,Washing Machine,45000,PROD005,1,1,4.0,2025-09-29 18:00:00
+INT_0467,USR_1031,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD016,1,1,5.0,2025-01-10 13:00:00
+INT_0468,USR_1067,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD029,1,1,5.0,2025-08-29 08:00:00
+INT_0469,USR_1035,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD034,1,1,4.0,2025-07-17 08:00:00
+INT_0470,USR_1121,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-03-22 09:00:00
+INT_0471,USR_1072,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD014,1,0,4.0,2025-12-03 08:00:00
+INT_0472,USR_1111,4K Smart TV 55 inch with Dolby Audio for home theater under 50000,Television,50000,PROD020,0,0,,2025-03-06 08:00:00
+INT_0473,USR_1014,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,0,2.0,2025-12-05 18:00:00
+INT_0474,USR_1077,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD036,0,0,,2025-07-08 14:00:00
+INT_0475,USR_1058,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-07-12 12:00:00
+INT_0476,USR_1133,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,0,0,,2025-05-27 19:00:00
+INT_0477,USR_1122,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD027,1,0,4.0,2025-01-02 15:00:00
+INT_0478,USR_1114,65W GaN fast charger with USB-C PD under 3500,Charger,3500,PROD039,1,1,5.0,2025-04-24 14:00:00
+INT_0479,USR_1071,Convection microwave oven with grill for baking under 15000,Oven,15000,PROD033,1,1,4.0,2025-10-10 19:00:00
+INT_0480,USR_1133,PS5 Slim console for 4K gaming under 50000,Gaming Console,50000,PROD028,1,1,4.0,2025-02-28 08:00:00
+INT_0481,USR_1111,Loud party speaker with deep bass and bluetooth under 15000,Speaker,15000,PROD030,1,1,4.0,2025-06-16 11:00:00
+INT_0482,USR_1140,I need a laptop for Python and data analysis under 60k,Laptop,60000,PROD004,1,1,5.0,2025-05-08 13:00:00
+INT_0483,USR_1028,Cordless stick vacuum cleaner with HEPA filter for pet hair under 15000,Vacuum Cleaner,15000,PROD035,0,0,,2025-12-27 16:00:00
+INT_0484,USR_1061,5G mobile phone with high resolution 50MP camera under 30000,Mobile Phone,30000,PROD014,1,0,2.0,2025-11-14 16:00:00
+INT_0485,USR_1081,Affordable top load washing machine below 25k,Washing Machine,25000,PROD008,1,1,5.0,2025-09-23 09:00:00
+INT_0486,USR_1001,Need a budget laptop for college and office under 50000,Laptop,50000,PROD003,1,0,4.0,2025-10-22 18:00:00
+INT_0487,USR_1019,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-11-18 21:00:00
+INT_0488,USR_1033,RO UV water purifier with mineralizer for hard water under 15000,Water Purifier,15000,PROD038,1,1,5.0,2025-12-18 13:00:00
+INT_0489,USR_1099,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD013,1,1,4.0,2025-09-23 12:00:00
+INT_0490,USR_1058,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,0,0,,2025-09-05 13:00:00
+INT_0491,USR_1097,Front load washing machine for large family under 45000,Washing Machine,45000,PROD006,1,1,5.0,2025-01-07 08:00:00
+INT_0492,USR_1082,High performance gaming phone with 12GB RAM under 40000,Mobile Phone,40000,PROD015,1,0,3.0,2025-10-15 13:00:00
+INT_0493,USR_1144,Energy saving BLDC ceiling fan with remote control under 4000,Fan,4000,PROD025,1,1,5.0,2025-12-07 16:00:00
+INT_0494,USR_1014,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,5.0,2025-12-14 08:00:00
+INT_0495,USR_1120,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-09-02 14:00:00
+INT_0496,USR_1046,1 Ton energy efficient AC for small room under 35k,Air Conditioner,35000,PROD024,1,1,4.0,2025-10-17 15:00:00
+INT_0497,USR_1060,Budget tablet for online classes and reading under 20000,Tablet,20000,PROD018,1,1,5.0,2025-04-04 14:00:00
+INT_0498,USR_1081,Study tablet with stylus support for taking notes under 35000,Tablet,35000,PROD018,0,0,,2025-11-15 20:00:00
+INT_0499,USR_1130,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD023,1,0,3.0,2025-09-21 10:00:00
+INT_0500,USR_1072,1.5 Ton 5 Star split inverter AC for master bedroom under 50000,Air Conditioner,50000,PROD022,1,1,5.0,2025-12-19 13:00:00
